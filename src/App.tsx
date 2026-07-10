@@ -1,14 +1,15 @@
-import PdfViewer from "./components/pdfViewer";
+import { Routes, Route } from 'react-router-dom';
+import BookList from "./bookList.tsx";
+import BookPage from './bookPage.tsx';
 
 export default function App() {
   return (
     <main>
       <h1>eEdu</h1>
-      <h2>Categories</h2>
-      <h3>Math</h3>
-      <h3>Tech</h3>
-      <h3>Engineering</h3>
-      <PdfViewer fileUrl="../public/books/Algebra Lineal y sus Aplicaciones 3ra Edicion David C Lay.pdf" />
+      <Routes>
+        <Route path="/" element={<BookList />} />
+        <Route path="/book/:id" element={<BookPage />} />
+      </Routes>
     </main>
   );
 }
