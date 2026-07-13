@@ -1,6 +1,7 @@
 export interface Book {
   id: number;
   title: string;
+  subtitle: string;
   author: string;
   categories: string[];
   urlBook: string;

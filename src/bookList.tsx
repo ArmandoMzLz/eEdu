@@ -23,8 +23,11 @@ export default function BookList() {
     if (error) return <p>Error: {error}</p>;
 
     return (
+        <>
+        <h2>Main Categories</h2>
+        <h3>Math</h3>
         <ul>
-            {books.map((book) => (
+            {books.filter(book => book.categories.includes('math')).map((book) => (
                 <li key={book.id}>
                     <Link to={`/book/${book.id}`}>
                         {book.title} - {book.author}
@@ -32,5 +35,46 @@ export default function BookList() {
                 </li>
             ))}
         </ul>
+        <h3>Enginnering</h3>
+         <ul>
+            {books.filter(book => book.categories.includes('engineering')).map((book) => (
+                <li key={book.id}>
+                    <Link to={`/book/${book.id}`}>
+                        {book.title} - {book.author}
+                    </Link>
+                </li>
+            ))}
+        </ul>
+        <h3>Software</h3>
+         <ul>
+            {books.filter(book => book.categories.includes('software')).map((book) => (
+                <li key={book.id}>
+                    <Link to={`/book/${book.id}`}>
+                        {book.title} - {book.author}
+                    </Link>
+                </li>
+            ))}
+        </ul>
+        <h3>Hardware</h3>
+         <ul>
+            {books.filter(book => book.categories.includes('hardware')).map((book) => (
+                <li key={book.id}>
+                    <Link to={`/book/${book.id}`}>
+                        {book.title} - {book.author}
+                    </Link>
+                </li>
+            ))}
+        </ul>
+        <h3>Physics & Science</h3>
+         <ul>
+            {books.filter(book => (book.categories.includes('physics') || book.categories.includes('science'))).map((book) => (
+                <li key={book.id}>
+                    <Link to={`/book/${book.id}`}>
+                        {book.title} - {book.author}
+                    </Link>
+                </li>
+            ))}
+        </ul>
+        </>
     );
 }

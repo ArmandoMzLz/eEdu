@@ -1,0 +1,13 @@
+:root {
+    --background-color: #040305;
+    --primary-color: #55318C;
+    --secondary-color: #78249A;
+    --terciary-color: #422B57;
+    --contrast-color: #F4EDE7;
+}
+
+body {
+    height: 100%;
+    background-color: var(--background-color);
+    color: var(--contrast-color);
+}

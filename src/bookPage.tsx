@@ -17,7 +17,7 @@ export default function BookPage() {
             })
             .then((data: { books: Book[] }) => {
                 const found = data.books.find((b) => b.id === Number(id));
-                if (!found) throw new Error("Libro no encontrado");
+                if (!found) throw new Error("Book not found.");
                 setBook(found);
             })
             .catch((err) => setError(err.message))
@@ -30,8 +30,9 @@ export default function BookPage() {
  
     return (
         <div>
-            <Link to="/">&larr; Volver al catálogo</Link>
+            <Link to="/">&larr; Return to catalog</Link>
             <h2>{book.title}</h2>
+            <h3>{book.subtitle}</h3>
             <p>Autor: {book.author}</p>
             <PdfViewer fileUrl={book.urlBook} />
         </div>

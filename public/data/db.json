@@ -77,7 +77,7 @@
             "title": "Metodos Numéricos para Ingenieros",
             "subtitle": "",
             "author": "Steven C. Chapra, Raymond P. Canale",
-            "categories": ["mathematics", "math", "matematicas", "ingenieria", "engineering", "metodos numericos", "numerical methods"],
+            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "metodos numericos", "numerical methods"],
             "urlBook": "/books/MetodosNumericosParaIngenieros_StevenCChapraAndRaymondPCanale.pdf",
             "urlCover": "/covers/.jpg"
         },
@@ -86,7 +86,7 @@
             "title": "Probabilidad y Estadística para Ingeniería y Ciencias",
             "subtitle": "",
             "author": "Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye",
-            "categories": ["mathematics", "math", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "stadistics"],
+            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "stadistics"],
             "urlBook": "/books/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.pdf",
             "urlCover": "/covers/.jpg"
         },
@@ -176,7 +176,7 @@
             "title": "Discrete Mathematics and Its Applications",
             "subtitle": "",
             "author": "Kenneth H. Rosen",
-            "categories": ["mathematics", "math", "matematicas", "discrete", "discretas"],
+            "categories": ["math", "mathematics", "matematicas", "discrete", "discretas"],
             "urlBook": "/books/DiscreteMathematicsAndItsApplications_KennethHRosen.pdf",
             "urlCover": "/covers/.jpg"
         },
@@ -249,7 +249,7 @@
             "subtitle": "",
             "author": "Stanley I. Grossman S., José Job Flores Godoy",
             "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
-            "urlBook": "/books/.pdf",
+            "urlBook": "/books/AlgebraLineal_StanleyIGrossmanSAndJoseJobFloresGodoy.pdf",
             "urlCover": "/covers/.jpg"
         },
         {
