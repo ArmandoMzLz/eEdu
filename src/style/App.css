@@ -1,13 +1,27 @@
 :root {
-    --background-color: #040305;
+    --background-color: #0e0a11;
     --primary-color: #55318C;
     --secondary-color: #78249A;
     --terciary-color: #422B57;
     --contrast-color: #F4EDE7;
+
+    --dark-accent-color: #1b1621;
+
+    font-family: serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     height: 100%;
     background-color: var(--background-color);
     color: var(--contrast-color);
+}
+
+h1, h2 {
+    margin: 10px 20px 0 20px;
 }
