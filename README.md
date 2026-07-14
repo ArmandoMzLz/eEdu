@@ -1,32 +1,14 @@
-# React + TypeScript + Vite
+# eEdu
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+eEdu is a personal library with books that I've been reading, I'm yet to read or I've read throught my carrer.
 
-Currently, two official plugins are available:
+The main topics of the books are:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Mathematics
+- Software related (programming, systems, OS, databases, etc.)
+- Hardware related (circuits, embbeded systems, digital systems, etc.)
+- Physics
 
-## React Compiler
+You can visit the site here: [eEdu](https://eedu.onrender.com)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+The site it's still on development as I want to add more features, books and a overall better UI.
