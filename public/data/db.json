@@ -59,7 +59,7 @@
             "title": "Fundamentos de Sistemas Digitales",
             "subtitle": "",
             "author": "Thomas l. Floyd",
-            "categories": ["hardware", "systems", "sistema", "sistemas digitales", "digital systems"],
+            "categories": ["hardware", "system", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/FundamentosDeSistemasDigitales_ThomasLFloyd.pdf",
             "urlCover": "/covers/.jpg"
         },
@@ -95,7 +95,7 @@
             "title": "Sistemas Digitales",
             "subtitle": "Principios y Aplicaciones",
             "author": "Ronald J. Tocci, Neal S. Widmer, Gregory L. Moss",
-            "categories": ["hardware", "systems", "sistema", "sistemas digitales", "digital systems"],
+            "categories": ["hardware", "system", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/SistemasDigitales_Varios.pdf",
             "urlCover": "/covers/.jpg"
         },
@@ -331,6 +331,78 @@
             "author": "Marck Richards, Neal Ford",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 38,
+            "title": "C++ 20",
+            "subtitle": "The Complete Guide",
+            "author": "Nicolai M. Josuttis",
+            "categories": ["software", "programming", "programacion", "cpp", "c++"],
+            "urlBook": "/books/Cpp20TheCompleteGuide_NicolaiMJosuttis.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 39,
+            "title": "Professional C++",
+            "subtitle": "",
+            "author": "Marc Gregoire",
+            "categories": ["software", "programming", "programacion", "cpp", "c++"],
+            "urlBook": "/books/ProfessionalCpp_MarcGregoire.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 40,
+            "title": "A Tour of C++",
+            "subtitle": "",
+            "author": "Bjarne Stroustrup",
+            "categories": ["software", "programming", "programacion", "cpp", "c++"],
+            "urlBook": "/books/ATourOfCpp_BjarneStroustrup.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 41,
+            "title": "Designing Distributed Systems",
+            "subtitle": "Patterns and Paradigms for Scalable, Reliable Systems Using Kubernets",
+            "author": "Brenda Burns",
+            "categories": ["software", "engineering", "ingenieria", "system", "sistema"],
+            "urlBook": "/books/DesigningDistributedSystems_BrendaBurns.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 42,
+            "title": "Data Science from Scratch",
+            "subtitle": "First Principles with Python",
+            "author": "Joel Grus",
+            "categories": ["software", "data", "data science", "datos", "ciencia de datos", "programming", "programacion", "python"],
+            "urlBook": "/books/DataScienceFromScratch_JoelGrus.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 43,
+            "title": "Essential Math for Data Science",
+            "subtitle": "Take Control of Your Data With Fundamental Linera Algebra, Probability, and Statistics",
+            "author": "Thomas Nield",
+            "categories": ["software", "data", "data science", "datos", "ciencia de datos", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/EssentialMathForDataScience_ThomasNield.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 44,
+            "title": "Site Reliability Enginnering",
+            "subtitle": "How Google Runs Production Systems",
+            "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",
+            "categories": ["software", "system", "sistema"],
+            "urlBook": "/books/.pdf",
+            "urlCover": "/covers/.jpg"
+        }, 
+        {
+            "id": 45,
+            "title": "Fundamentals of Data Engineering",
+            "subtitle": "Plan and Build Robust Data Systems",
+            "author": "Joe Reis, Matt Housley",
+            "categories": ["software", "data", "data science", "datos", "ciencia de datos"],
+            "urlBook": "/books/.pdf",
             "urlCover": "/covers/.jpg"
         }
     ]
