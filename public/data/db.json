@@ -7,7 +7,7 @@
             "author": "Michael V. Mannino",
             "categories": ["base de datos", "database", "software", "sql"],
             "urlBook": "/books/AdministracionDeBaseDeDatos_MichaelVMannino.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/AdministracionDeBaseDeDatos_MichaelVMannino.jpg"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "author": "Behrooz Parhami",
             "categories": ["arquitectura", "computers", "computadoras", "computer architecture", "hardware"],
             "urlBook": "/books/ArquitecturaDeComputadoras_BehroozParhami.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ArquitecturaDeComputadoras_BehroozParhami.jpg"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "author": "Dolores Cuadra, Elena Castro, Ana M. Iglesias, Paloma Martínez, Fco. Javier Calle, César de Pablo, Harth Al-Jumaily, Lourdes Moreno, Sonia García Manzano, José Luis Martínez, Jesica Rivero, Isabel Segura",
             "categories": ["base de datos", "database", "software", "sql"],
             "urlBook": "/books/DesarrolloDeBaseDeDatos_Varios.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DesarrolloDeBaseDeDatos_Varios.jpg"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "author": "Elicia White",
             "categories": ["software", "hardware", "embedded", "embebidos", "sistema", "programming", "programacion"],
             "urlBook": "/books/MakingEmbeddedSystems_EliciaWhite.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/MakingEmbeddedSystems_EliciaWhite.jpg"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "author": "Osvaldo Cairó, Silvia Guardati",
             "categories": ["software", "programming", "programacion", "data", "data structures", "datos", "estructura de datos"],
             "urlBook": "/books/EsctructuraDeDatos_OsvaldoCairoAndSilviaGuardati.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/EsctructuraDeDatos_OsvaldoCairoAndSilviaGuardati.jpg"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "author": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
             "categories": ["base de datos", "database", "software", "sql"],
             "urlBook": "/books/FundamentosDeBaseDeDatos_Varios.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FundamentosDeBaseDeDatos_Varios.jpg"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "author": "Thomas l. Floyd",
             "categories": ["hardware", "system", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/FundamentosDeSistemasDigitales_ThomasLFloyd.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FundamentosDeSistemasDigitales_ThomasLFloyd.jpg"
         },
         {
             "id": 8,
@@ -70,16 +70,16 @@
             "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gangne",
             "categories": ["software", "operating systems", "sistemas operativos", "sistema", "system"],
             "urlBook": "/books/FundamentosDeSistemasOperativos_Varios.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FundamentosDeSistemasOperativos_Varios.jpg"
         },
         {
             "id": 9,
-            "title": "Metodos Numéricos para Ingenieros",
+            "title": "Métodos Numéricos para Ingenieros",
             "subtitle": "",
             "author": "Steven C. Chapra, Raymond P. Canale",
             "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "metodos numericos", "numerical methods"],
             "urlBook": "/books/MetodosNumericosParaIngenieros_StevenCChapraAndRaymondPCanale.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/MetodosNumericosParaIngenieros_StevenCChapraAndRaymondPCanale.jpg"
         },
         {
             "id": 10,
@@ -88,7 +88,7 @@
             "author": "Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye",
             "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "stadistics"],
             "urlBook": "/books/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.jpg"
         },
         {
             "id": 11,
@@ -97,7 +97,7 @@
             "author": "Ronald J. Tocci, Neal S. Widmer, Gregory L. Moss",
             "categories": ["hardware", "system", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/SistemasDigitales_Varios.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/SistemasDigitales_Varios.jpg"
         },
         {
             "id": 12,
@@ -106,7 +106,7 @@
             "author": "Andrew S. Tanenbaum",
             "categories": ["software", "operating systems", "sistemas operativos", "sistema", "system"],
             "urlBook": "/books/SistemasOperativosModernos_AndrewSTanenbaum.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/SistemasOperativosModernos_AndrewSTanenbaum.jpg"
         },
         {
             "id": 13,
@@ -115,7 +115,7 @@
             "author": "Raymond A. Serway, John W. Jewett, Jr.",
             "categories": ["physics", "fisica", "ingenieria", "engineering"],
             "urlBook": "/books/FisicaParaCienciasEIngenieriaVolumen1_RaymondASerway.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FisicaParaCienciasEIngenieriaVolumen1_RaymondASerway.jpg"
         },
         {
             "id": 14,
@@ -124,7 +124,7 @@
             "author": "Raymond A. Serway, John W. Jewett, Jr.",
             "categories": ["physics", "fisica", "ingenieria", "engineering"],
             "urlBook": "/books/FisicaParaCienciasEIngenieriaVolumen2_RaymondASerway.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FisicaParaCienciasEIngenieriaVolumen2_RaymondASerway.jpg"
         },
         {
             "id": 15,
@@ -133,7 +133,7 @@
             "author": "Richard Feynman",
             "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
             "urlBook": "/books/TheCharacterOfPhysicsLaw_RichardFeynman.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/TheCharacterOfPhysicsLaw_RichardFeynman.jpg"
         },
         {
             "id": 16,
@@ -142,7 +142,7 @@
             "author": "Carl Sagan",
             "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
             "urlBook": "/books/Cosmos_CarlSagan.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/Cosmos_CarlSagan.jpg"
         },
         {
             "id": 17,
@@ -151,7 +151,7 @@
             "author": "Kip S. Thorne",
             "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
             "urlBook": "/books/BlackHolesAndTimeWarps_KipSThorne.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/BlackHolesAndTimeWarps_KipSThorne.jpg"
         },
         {
             "id": 18,
@@ -160,7 +160,7 @@
             "author": "Neil de Grasse Tyson, J. Richard Gott, Michael A. Strauss",
             "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
             "urlBook": "/books/WelcomeToTheUniverse_NeilTysonAndRichardGottAndMichaelA.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/WelcomeToTheUniverse_NeilTysonAndRichardGottAndMichaelA.jpg"
         },
         {
             "id": 19,
@@ -169,7 +169,7 @@
             "author": "Steven Weinberg",
             "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
             "urlBook": "/books/TheFirstThreeMinutes_StevenWeinberg.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/TheFirstThreeMinutes_StevenWeinberg.jpg"
         },
         {
             "id": 20,
@@ -178,7 +178,7 @@
             "author": "Kenneth H. Rosen",
             "categories": ["math", "mathematics", "matematicas", "discrete", "discretas"],
             "urlBook": "/books/DiscreteMathematicsAndItsApplications_KennethHRosen.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DiscreteMathematicsAndItsApplications_KennethHRosen.jpg"
         },
         {
             "id": 21,
@@ -187,7 +187,7 @@
             "author": "Erwin Kreyszig",
             "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering"],
             "urlBook": "/books/AdvancedEngineeringMathematics_ErwinKreyszig.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/AdvancedEngineeringMathematics_ErwinKreyszig.jpg"
         },
         {
             "id": 22,
@@ -196,7 +196,7 @@
             "author": "David Halliday, Robert Resnick",
             "categories": ["physics", "fisica", "ingenieria", "engineering"],
             "urlBook": "/books/FundamentalsOfPhysics_HallidayAndResnick.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FundamentalsOfPhysics_HallidayAndResnick.jpg"
         },
         {
             "id": 23,
@@ -205,7 +205,7 @@
             "author": "Steven W. Ellingson",
             "categories": ["engineering", "ingenieria", "sistema", "system", "radio"],
             "urlBook": "/books/RadioSystemsEngineering_StevenWEllingson.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/RadioSystemsEngineering_StevenWEllingson.jpg"
         },
         {
             "id": 24,
@@ -214,7 +214,7 @@
             "author": "James M. Fiore",
             "categories": ["engineering", "ingenieria", "hardware", "electrical", "electricidad"],
             "urlBook": "/books/SemiconductorDevicesTheoryAndApplication_JamesMFiore.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/SemiconductorDevicesTheoryAndApplication_JamesMFiore.jpg"
         },
         {
             "id": 25,
@@ -223,7 +223,7 @@
             "author": "Steven W. Ellingson",
             "categories": ["electrical", "electricidad", "physics", "fisica"],
             "urlBook": "/books/ElectromagneticsVolume1_StevenWEllingson.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ElectromagneticsVolume1_StevenWEllingson.jpg"
         },
         {
             "id": 26,
@@ -232,7 +232,7 @@
             "author": "Steven W. Ellingson",
             "categories": ["electrical", "electricidad", "physics", "fisica"],
             "urlBook": "/books/ElectromagneticsVolume2_StevenWEllingson.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ElectromagneticsVolume2_StevenWEllingson.jpg"
         },
         {
             "id": 27,
@@ -241,7 +241,7 @@
             "author": "David C. Lay",
             "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
             "urlBook": "/books/AlgebraLinealYSusAplicaciones_DavidCLay.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/AlgebraLinealYSusAplicaciones_DavidCLay.jpg"
         },
         {
             "id": 28,
@@ -250,7 +250,7 @@
             "author": "Stanley I. Grossman S., José Job Flores Godoy",
             "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
             "urlBook": "/books/AlgebraLineal_StanleyIGrossmanSAndJoseJobFloresGodoy.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/AlgebraLineal_StanleyIGrossmanSAndJoseJobFloresGodoy.jpg"
         },
         {
             "id": 29,
@@ -259,7 +259,7 @@
             "author": "Doris Appleby, Julius J. VandeKopple",
             "categories": ["software", "programming", "programacion"],
             "urlBook": "/books/ProgrammingLanguajesParadigmAndPractice_DorisAppleby.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ProgrammingLanguajesParadigmAndPractice_DorisAppleby.jpg"
         },
         {
             "id": 30,
@@ -268,7 +268,7 @@
             "author": "M. Morris Mano",
             "categories": ["hardware", "systems", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/DisenoDigital_MMorrisMano.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DisenoDigital_MMorrisMano.jpg"
         },
         {
             "id": 31,
@@ -277,7 +277,7 @@
             "author": "James Stewart",
             "categories": ["math", "mathematics", "matematicas", "calculo", "integral", "diferencial"],
             "urlBook": "/books/CalculoDeUnaVariable_JamesStewart.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/CalculoDeUnaVariable_JamesStewart.jpg"
         },
         {
             "id": 32,
@@ -286,7 +286,7 @@
             "author": "Sam Newman",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/BuildingMicroservices_SamuelNewman.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/BuildingMicroservices_SamuelNewman.jpg"
         },
         {
             "id": 33,
@@ -295,7 +295,7 @@
             "author": "Martin Kleppmann",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/DesigningDataIntensiveApplications_MartinKleppmann.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DesigningDataIntensiveApplications_MartinKleppmann.jpg"
         },
         {
             "id": 34,
@@ -304,7 +304,7 @@
             "author": "Vlad Khononov",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/LearningDomainDrivenDesign_VladikKhononov.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/LearningDomainDrivenDesign_VladikKhononov.jpg"
         },
         {
             "id": 35,
@@ -313,7 +313,7 @@
             "author": "Chris Riccomini, Dmitri Ryaboy",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.jpg"
         },
         {
             "id": 36,
@@ -322,7 +322,7 @@
             "author": "Andrew Hunt, David Thomas",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/ThePragmaticProgrammer_AndrewHuntDavidThomas.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ThePragmaticProgrammer_AndrewHuntDavidThomas.jpg"
         },
         {
             "id": 37,
@@ -331,7 +331,7 @@
             "author": "Marck Richards, Neal Ford",
             "categories": ["software", "systems", "sistema"],
             "urlBook": "/books/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.jpg"
         }, 
         {
             "id": 38,
@@ -340,7 +340,7 @@
             "author": "Nicolai M. Josuttis",
             "categories": ["software", "programming", "programacion", "cpp", "c++"],
             "urlBook": "/books/Cpp20TheCompleteGuide_NicolaiMJosuttis.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/Cpp20TheCompleteGuide_NicolaiMJosuttis.jpg"
         }, 
         {
             "id": 39,
@@ -349,7 +349,7 @@
             "author": "Marc Gregoire",
             "categories": ["software", "programming", "programacion", "cpp", "c++"],
             "urlBook": "/books/ProfessionalCpp_MarcGregoire.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ProfessionalCpp_MarcGregoire.jpg"
         }, 
         {
             "id": 40,
@@ -358,7 +358,7 @@
             "author": "Bjarne Stroustrup",
             "categories": ["software", "programming", "programacion", "cpp", "c++"],
             "urlBook": "/books/ATourOfCpp_BjarneStroustrup.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/ATourOfCpp_BjarneStroustrup.jpg"
         }, 
         {
             "id": 41,
@@ -367,7 +367,7 @@
             "author": "Brenda Burns",
             "categories": ["software", "engineering", "ingenieria", "system", "sistema"],
             "urlBook": "/books/DesigningDistributedSystems_BrendaBurns.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DesigningDistributedSystems_BrendaBurns.jpg"
         }, 
         {
             "id": 42,
@@ -376,7 +376,7 @@
             "author": "Joel Grus",
             "categories": ["software", "data", "data science", "datos", "ciencia de datos", "programming", "programacion", "python"],
             "urlBook": "/books/DataScienceFromScratch_JoelGrus.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/DataScienceFromScratch_JoelGrus.jpg"
         }, 
         {
             "id": 43,
@@ -385,7 +385,7 @@
             "author": "Thomas Nield",
             "categories": ["software", "data", "data science", "datos", "ciencia de datos", "math", "mathematics", "matematicas"],
             "urlBook": "/books/EssentialMathForDataScience_ThomasNield.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlCover": "/img/EssentialMathForDataScience_ThomasNield.jpg"
         }, 
         {
             "id": 44,
@@ -393,8 +393,8 @@
             "subtitle": "How Google Runs Production Systems",
             "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",
             "categories": ["software", "system", "sistema"],
-            "urlBook": "/books/.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlBook": "/books/SiteReliabilityEngineering_Varios.pdf",
+            "urlCover": "/img/SiteReliabilityEngineering_Varios.jpg"
         }, 
         {
             "id": 45,
@@ -402,8 +402,8 @@
             "subtitle": "Plan and Build Robust Data Systems",
             "author": "Joe Reis, Matt Housley",
             "categories": ["software", "data", "data science", "datos", "ciencia de datos"],
-            "urlBook": "/books/.pdf",
-            "urlCover": "/covers/.jpg"
+            "urlBook": "/books/FundamentalsOfDataEngineering_JoeReisAndMattHousley.pdf",
+            "urlCover": "/img/FundamentalsOfDataEngineering_JoeReisAndMattHousley.jpg"
         }
     ]
 }

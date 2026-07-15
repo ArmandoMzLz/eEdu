@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import type { Book } from "./types/book";
+import './style/bookCategory.css';
 
 export default function BookCategory() {
     const { categoryName } = useParams<{ categoryName: string }>();
@@ -26,16 +27,21 @@ export default function BookCategory() {
     return(
         <>
         <Link to={"/"} style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
-        <div>
-        <ul>
+        <div className="book-card-container">
             {books.filter(book => book.categories.includes(decoded)).map((book) =>
-                <li key={book.id}>
-                    <Link to={`/book/${book.id}`} style={{ textDecoration: 'none'}}>
-                        {book.title} - {book.author}
-                    </Link>
-                </li>
+            <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none'}}>
+                <div className="book-card" >
+                    <div className="book-image-container">
+                        <img src={book.urlCover} />
+                    </div>
+                    <div className="book-data-container">
+                        <h2>{book.title}</h2>
+                        <h3>{book.subtitle}</h3>
+                        <h4>{book.author}</h4>
+                    </div>
+                </div>
+            </Link>
             )}
-        </ul>
         </div>
         </>
     );
