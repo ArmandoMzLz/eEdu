@@ -1,4 +1,50 @@
-@import "/src/style/App.css"; 
+@import "/src/style/App.css";
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+}
+
+.search-container {
+    display: flex;
+    margin: 50px;
+}
+
+.search-icon-container {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 0 0 10px;
+    background-color: var(--contrast-color);
+}
+
+.search-icon {
+    width:60%;
+    height: 60%;
+}
+
+.search-input {
+    width: 450px;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: var(--contrast-color);
+}
+
+.search-btn {
+    width: 70px;
+    height: 40px;
+    border: none;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+    color: var(--contrast-color);
+    background-color: var(--terciary-color);
+}
 
 .category-card-container {
     display: flex;
@@ -32,6 +78,10 @@
 }
 
 @media (max-width: 1100px) {
+    .search-input {
+        width: 300px;
+    }
+    
     .category-card-container {
         display: flex;
         flex-direction: column;
