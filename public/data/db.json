@@ -86,7 +86,7 @@
             "title": "Probabilidad y Estadística para Ingeniería y Ciencias",
             "subtitle": "",
             "author": "Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye",
-            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "stadistics"],
+            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "statistics"],
             "urlBook": "/books/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.pdf",
             "urlCover": "/img/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.jpg"
         },
@@ -275,7 +275,7 @@
             "title": "Cálculo de una Variable",
             "subtitle": "Trascendentes Tempranas",
             "author": "James Stewart",
-            "categories": ["math", "mathematics", "matematicas", "calculo", "integral", "diferencial"],
+            "categories": ["math", "mathematics", "matematicas", "calculus", "calculo", "integral", "diferencial"],
             "urlBook": "/books/CalculoDeUnaVariable_JamesStewart.pdf",
             "urlCover": "/img/CalculoDeUnaVariable_JamesStewart.jpg"
         },
@@ -404,6 +404,114 @@
             "categories": ["software", "data", "data science", "datos", "ciencia de datos"],
             "urlBook": "/books/FundamentalsOfDataEngineering_JoeReisAndMattHousley.pdf",
             "urlCover": "/img/FundamentalsOfDataEngineering_JoeReisAndMattHousley.jpg"
+        },
+        {
+            "id": 46,
+            "title": "Linear Algebra Done Right",
+            "subtitle": "",
+            "author": "Sheldon Axler",
+            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "urlBook": "/books/LinearAlgebraDoneRight_SheldonAxler.pdf",
+            "urlCover": "/img/LinearAlgebraDoneRight_SheldonAxler.jpg"
+        },
+        {
+            "id": 47,
+            "title": "Linear Algebra",
+            "subtitle": "",
+            "author": "Georgi E. Shilov",
+            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "urlBook": "/books/LinearAlgebra_GeorgiEShilov.pdf",
+            "urlCover": "/img/LinearAlgebra_GeorgiEShilov.jpg"
+        },
+        {
+            "id": 48,
+            "title": "Geometrical Numeric Integration",
+            "subtitle": "Structure-Preserving Algorithms for Ordinary Differential Equations",
+            "author": "Ernst Hairer, Christian Lubich, Gerhard Wanner",
+            "categories": ["math", "mathematics", "matematicas", "calculo", "calculus", "calculo", "integral"],
+            "urlBook": "/books/GeometricNumericalIntegration_Varios.pdf",
+            "urlCover": "/img/GeometricNumericalIntegration_Varios.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Stochastic Differential Equations and Difussion Processes",
+            "subtitle": "",
+            "author": "Nobuyuki Ikeda, Shinzo Watanabe",
+            "categories": ["math", "mathematics", "matematicas", "calculo", "calculus", "calculo", "integral"],
+            "urlBook": "/books/StochasticDifferentialEquationsAndDifussionProcesses_Varios.pdf",
+            "urlCover": "/img/StochasticDifferentialEquationsAndDifussionProcesses_Varios.jpg"
+        },
+        {
+            "id": 50,
+            "title": "Trades, Quotes and Prices",
+            "subtitle": "Financial Markets Under the Microscope",
+            "author": "Jean-Philippe Bouchad, Julius Bonart, Jonathan Donier, Martin Gould",
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia"],
+            "urlBook": "/books/TradesQuotesAndPrices_Varios.pdf",
+            "urlCover": "/img/TradesQuotesAndPrices_Varios.jpg"
+        },
+        {
+            "id": 51,
+            "title": "Mathematical Theory of Bayesian Statistics",
+            "subtitle": "",
+            "author": "Sumio Watanabe",
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "statistics", "estadistica"],
+            "urlBook": "/books/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.pdf",
+            "urlCover": "/img/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.jpg"
+        },
+        {
+            "id": 52,
+            "title": "Complex Analysis",
+            "subtitle": "An Introduction to the Theory of Analytic Functions of One Complex Variable",
+            "author": "Lars V. Ahlfors",
+            "categories": ["math", "matematicas", "mathematics", "analisis", "analysis"],
+            "urlBook": "/books/ComplexAnalysis_LarsVAhlfors.pdf",
+            "urlCover": "/img/ComplexAnalysis_LarsVAhlfors.jpg"
+        },
+        {
+            "id": 53,
+            "title": "Advanced Calculus",
+            "subtitle": "",
+            "author": "Lynn H. Loomis, Shlomo Sternberg",
+            "categories": ["math", "mathematics", "matematicas", "calculo", "calculus"],
+            "urlBook": "/books/AdvancedCalculus_LynnHLoomisAndShlomoSterberg.pdf",
+            "urlCover": "/img/AdvancedCalculus_LynnHLoomisAndShlomoSterberg.jpg"
+        },
+        {
+            "id": 54,
+            "title": "Theory of Financial Risk and Derivative Pricing",
+            "subtitle": "From Statistical Physics to Risk Management",
+            "author": "Jean-Philippe Bouchad, Marc Potters",
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "statistics", "estadistica"],
+            "urlBook": "/books/TheoryOfFinancialRiskAndDerivativePricing_Varios.pdf",
+            "urlCover": "/img/TheoryOfFinancialRiskAndDerivativePricing_Varios.jpg"
+        },
+        {
+            "id": 55,
+            "title": "Finite Element",
+            "subtitle": "Exterior Calculus",
+            "author": "Douglas N. Arnold",
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia"],
+            "urlBook": "/books/FiniteElementExteriorCalculus_DouglasNArnold.pdf",
+            "urlCover": "/img/FiniteElementExteriorCalculus_DouglasNArnold.jpg"
+        },
+        {
+            "id": 56,
+            "title": "Structure of Dynamical Systems",
+            "subtitle": "A Symplectic View of Physics",
+            "author": "Jean-Marie Souriau",
+            "categories": ["math", "mathematics", "matematicas", "physics", "fisica", "geometry", "geometria"],
+            "urlBook": "/books/StructureOfDynamicalSystems_JeanMarieSouriau.pdf",
+            "urlCover": "/img/StructureOfDynamicalSystems_JeanMarieSouriau.jpg"
+        },
+        {
+            "id": 57,
+            "title": "Probability With Martingles",
+            "subtitle": "",
+            "author": "David Williams",
+            "categories": ["math", "matematicas", "mathematics", "probability", "probabilidad", "martingale", "martingala"],
+            "urlBook": "/books/ProbabilityWithMartingales_DavidWilliams.pdf",
+            "urlCover": "/img/ProbabilityWithMartingales_DavidWilliams.jpg"
         }
     ]
 }

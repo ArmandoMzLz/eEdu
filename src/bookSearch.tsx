@@ -32,22 +32,20 @@ export default function BookSearch() {
     ));
 
     return(
-        <>
+        <main>
         <Link to={"/"} style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
         <p>Results for "{decoded}"</p>
         <div className="book-card-container">
             {filteredBooks.length > 0 ? (
                 filteredBooks.map((book) => (
-                    <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none' }}>
-                        <div className="book-card">
-                            <div className="book-image-container">
-                                <img src={book.urlCover} />
-                            </div>
-                            <div className="book-data-container">
-                                <h2>{book.title}</h2>
-                                <h3>{book.subtitle}</h3>
-                                <h4>{book.author}</h4>
-                            </div>
+                    <Link key={book.id} to={`/book/${book.id}`} className="book-card" style={{ textDecoration: 'none' }}>
+                        <div className="book-image-container">
+                            <img src={book.urlCover} />
+                        </div>
+                        <div className="book-data-container">
+                            <h2>{book.title}</h2>
+                            <h3>{book.subtitle}</h3>
+                            <h4>{book.author}</h4>
                         </div>
                     </Link>
                 ))
@@ -55,6 +53,6 @@ export default function BookSearch() {
                 <p>No results found for "{decoded}"</p>
             )}
         </div>
-        </>
+        </main>
     );
 }

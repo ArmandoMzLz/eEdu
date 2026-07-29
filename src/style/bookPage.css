@@ -1,5 +1,29 @@
 @import "/src/style/App.css";
 
+.return-btn {
+    font-size: 20px;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.book-data {
+    display: flex;
+    flex-direction: column;
+    margin: 30px 10px;
+}
+
+.book-data h2 {
+    font-size: 30px;
+}
+
+.book-data h3 {
+    font-size: 25px;
+}
+
+.book-data p {
+    font-size: 20px;
+}
+
 .next-prev-btn-container {
     display: flex;
     flex-wrap: wrap;
@@ -14,6 +38,14 @@
     width: 80px;
     height: 40px;
     transition: transform 0.3s ease;
+    color: var(--contrast-color);
+    background-color: var(--terciary-color);
+    border: none;
+    cursor: pointer;
+}
+
+.next-prev-btn:disabled {
+    background-color: var(--disable-color);
 }
 
 .next-prev-btn:hover {
@@ -33,6 +65,14 @@
 .zoom-btn {
     width: 30px;
     height: 30px;
+    border: none;
+    cursor: pointer;
+    color: var(--contrast-color);
+    background-color: var(--terciary-color);
+}
+
+.zoom-btn:disabled {
+    background-color: var(--disable-color);
 }
 
 input {

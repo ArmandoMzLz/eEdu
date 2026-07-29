@@ -17,6 +17,7 @@ export default function BookList() {
 
     return (
         <main className="main-container">
+            <h1 style={{ fontSize: '100px' }}>eEdu</h1>
             <form className="search-container" onSubmit={handleSearchSubmit}>
                 <div className="search-icon-container">
                     <img className="search-icon" src="search.svg" />
@@ -31,9 +32,9 @@ export default function BookList() {
                     Search
                 </button>
             </form>
-            <h2>Main Categories</h2>
+            <h2 style={{ fontSize: '40px' }}>Main Categories</h2>
             <div className="category-card-container">
-                <Link to={`/category/${encodeURIComponent('math')}`} style={{ textDecoration: 'none'}}>
+                <Link to={`/category/${encodeURIComponent('mathematics')}`} style={{ textDecoration: 'none'}}>
                     <div className="category-card">
                         <h3>Mathematics</h3>
                     </div>
@@ -56,6 +57,11 @@ export default function BookList() {
                 <Link to={`/category/${encodeURIComponent('physics')}`} style={{ textDecoration: 'none'}}>
                     <div className="category-card">
                         <h3>Physics and Science</h3>
+                    </div>
+                </Link>
+                <Link to={`/category/${encodeURIComponent('finance')}`} style={{ textDecoration: 'none'}}>
+                    <div className="category-card">
+                        <h3>Finance</h3>
                     </div>
                 </Link>
             </div>

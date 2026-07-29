@@ -29,12 +29,14 @@ export default function BookPage() {
     if (!book) return null;
  
     return (
-        <div>
-            <Link to="/">&larr; Return to catalog</Link>
-            <h2>{book.title}</h2>
-            <h3>{book.subtitle}</h3>
-            <p>Autor: {book.author}</p>
+        <main>
+            <Link to="/" className="return-btn">&larr; Return to catalog</Link>
+            <div className="book-data">
+                <h2>{book.title}</h2>
+                <h3>{book.subtitle}</h3>
+                <p>Autor: {book.author}</p>
+            </div>
             <PdfViewer fileUrl={book.urlBook} />
-        </div>
+        </main>
     );
 }

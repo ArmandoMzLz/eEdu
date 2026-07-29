@@ -25,24 +25,25 @@ export default function BookCategory() {
     if (error) return <p>Error: {error}</p>;
 
     return(
-        <>
-        <Link to={"/"} style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
-        <div className="book-card-container">
-            {books.filter(book => book.categories.includes(decoded)).map((book) =>
-            <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none'}}>
-                <div className="book-card" >
-                    <div className="book-image-container">
-                        <img src={book.urlCover} />
-                    </div>
-                    <div className="book-data-container">
-                        <h2>{book.title}</h2>
-                        <h3>{book.subtitle}</h3>
-                        <h4>{book.author}</h4>
-                    </div>
-                </div>
-            </Link>
-            )}
-        </div>
-        </>
+        <main>
+            <h1>{decoded.toUpperCase()}</h1>
+            <Link to={"/"} className="return-btn" style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
+            <div className="book-card-container">
+                {books.filter(book => book.categories.includes(decoded)).map((book) =>
+                    <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none'}}>
+                        <div className="book-card" >
+                            <div className="book-image-container">
+                                <img src={book.urlCover} />
+                            </div>
+                            <div className="book-data-container">
+                                <h2>{book.title}</h2>
+                                <h3>{book.subtitle}</h3>
+                                <h4>{book.author}</h4>
+                            </div>
+                        </div>
+                    </Link>
+                )}
+            </div>
+        </main>
     );
 }

@@ -6,14 +6,11 @@ import BookSearch from './bookSearch.tsx';
 
 export default function App() {
   return (
-    <main>
-      <h1>eEdu</h1>
-      <Routes>
-        <Route path="/" element={<BookList />} />
-        <Route path="/category/:categoryName" element={<BookCategory />}/>
-        <Route path='/search/:query' element={<BookSearch />} />
-        <Route path="/book/:id" element={<BookPage />} />
-      </Routes>
-    </main>
+    <Routes>
+      <Route path="/" element={<BookList />} />
+      <Route path="/category/:categoryName" element={<BookCategory />}/>
+      <Route path='/search/:query' element={<BookSearch />} />
+      <Route path="/book/:id" element={<BookPage />} />
+    </Routes>
   );
 }
