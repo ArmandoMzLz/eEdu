@@ -266,7 +266,7 @@
             "title": "Diseño Digital",
             "subtitle": "",
             "author": "M. Morris Mano",
-            "categories": ["hardware", "systems", "sistema", "sistemas digitales", "digital systems"],
+            "categories": ["hardware", "system", "sistema", "sistemas digitales", "digital systems"],
             "urlBook": "/books/DisenoDigital_MMorrisMano.pdf",
             "urlCover": "/img/DisenoDigital_MMorrisMano.jpg"
         },
@@ -284,7 +284,7 @@
             "title": "Building Microservices",
             "subtitle": "Designing Fine-Grained Systems",
             "author": "Sam Newman",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/BuildingMicroservices_SamuelNewman.pdf",
             "urlCover": "/img/BuildingMicroservices_SamuelNewman.jpg"
         },
@@ -293,7 +293,7 @@
             "title": "Designing Data-Intensive Applications",
             "subtitle": "The Big Ideas Behind Reliable, Scalable, And Maintainable Systems",
             "author": "Martin Kleppmann",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/DesigningDataIntensiveApplications_MartinKleppmann.pdf",
             "urlCover": "/img/DesigningDataIntensiveApplications_MartinKleppmann.jpg"
         },
@@ -302,7 +302,7 @@
             "title": "Learning Domain-Driven Design",
             "subtitle": "Aligning Software Architecture and Business Strategy",
             "author": "Vlad Khononov",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/LearningDomainDrivenDesign_VladikKhononov.pdf",
             "urlCover": "/img/LearningDomainDrivenDesign_VladikKhononov.jpg"
         },
@@ -311,7 +311,7 @@
             "title": "The Missing Readme",
             "subtitle": "A Guide For The New Software Engineer",
             "author": "Chris Riccomini, Dmitri Ryaboy",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.pdf",
             "urlCover": "/img/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.jpg"
         },
@@ -320,7 +320,7 @@
             "title": "The Pragmatic Programmer",
             "subtitle": "From Journeyman to Master",
             "author": "Andrew Hunt, David Thomas",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/ThePragmaticProgrammer_AndrewHuntDavidThomas.pdf",
             "urlCover": "/img/ThePragmaticProgrammer_AndrewHuntDavidThomas.jpg"
         },
@@ -329,7 +329,7 @@
             "title": "Fundamentals of Software Architecture",
             "subtitle": "An Engineering Approach",
             "author": "Marck Richards, Neal Ford",
-            "categories": ["software", "systems", "sistema"],
+            "categories": ["software", "system", "sistema"],
             "urlBook": "/books/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.pdf",
             "urlCover": "/img/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.jpg"
         }, 
@@ -491,7 +491,7 @@
             "title": "Finite Element",
             "subtitle": "Exterior Calculus",
             "author": "Douglas N. Arnold",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia"],
+            "categories": ["math", "mathematics", "matematicas", "calculo", "calculus"],
             "urlBook": "/books/FiniteElementExteriorCalculus_DouglasNArnold.pdf",
             "urlCover": "/img/FiniteElementExteriorCalculus_DouglasNArnold.jpg"
         },
@@ -512,6 +512,69 @@
             "categories": ["math", "matematicas", "mathematics", "probability", "probabilidad", "martingale", "martingala"],
             "urlBook": "/books/ProbabilityWithMartingales_DavidWilliams.pdf",
             "urlCover": "/img/ProbabilityWithMartingales_DavidWilliams.jpg"
+        },
+        {
+            "id": 58,
+            "title": "The TCP/IP Guide",
+            "subtitle": "",
+            "author": "Charles M. Kozierok",
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "urlBook": "/books/TheTcpIpGuide_CharlesMKozierok.pdf",
+            "urlCover": "/img/TheTcpIpGuide_CharlesMKozierok.jpg"
+        },
+        {
+            "id": 59,
+            "title": "Embedded Systems Architecture",
+            "subtitle": "A Comprehensive Guide for Engineers and Programmers",
+            "author": "Tammy Noergaard",
+            "categories": ["hardware", "embedded", "embebidos", "sistema", "system"],
+            "urlBook": "/books/EmbeddedSystemsArchitecture_TammyNoergaard.pdf",
+            "urlCover": "/img/EmbeddedSystemsArchitecture_TammyNoergaard.jpg"
+        },
+        {
+            "id": 60,
+            "title": "Computer Networking",
+            "subtitle": "A Top-Down Approach",
+            "author": "James F. Kurose, Keith W. Ross",
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "urlBook": "/books/ComputerNetworking_Varios.pdf",
+            "urlCover": "/img/ComputerNetworking_Varios.jpg"
+        },
+        {
+            "id": 61,
+            "title": "Networking Fundamentals",
+            "subtitle": "CCNA Exploration Companion Guide",
+            "author": "Mark A. Dye, Rick McDonald, Antoon W. Rufi",
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "urlBook": "/books/NetworkingFundamentals_Varios.pdf",
+            "urlCover": "/img/NetworkingFundamentals_Varios.jpg"
+        },
+        {
+            "id": 62,
+            "title": "Redes Cisco",
+            "subtitle": "Guía de Estudio para la Certificación CCNA 200-301",
+            "author": "Ernesto Ariganello",
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "urlBook": "/books/RedesCisco_ErnestoAriganello.pdf",
+            "urlCover": "/img/RedesCisco_ErnestoAriganello.jpg"
+        },
+        {
+            "id": 63,
+            "title": "Beautiful Data",
+            "subtitle": "The Stories Behind Elegant Data Solutions",
+            "author": "Toby Sergaran, Jeff Hammerbacher",
+            "categories": ["data", "datos", "software", "sistema", "system"],
+            "urlBook": "/books/BeautifulData_Varios.pdf",
+            "urlCover": "/img/BeautifulData_Varios.jpg"
+        },
+        {
+            "id": 64,
+            "title": "Beautiful Security",
+            "subtitle": "Leading Security Experts Explain How They Think",
+            "author": "Andy Oram, John Viega",
+            "categories": ["software", "seguridad", "security"],
+            "urlBook": "/books/BeautifulSecutity_Varios.pdf",
+            "urlCover": "/img/BeautifulSecutity_Varios.jpg"
         }
     ]
 }

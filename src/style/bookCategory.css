@@ -13,14 +13,26 @@ h1 {
     color: var(--text-color);
 }
 
+.result-txt {
+    font-size: 50px;
+    font-weight: bold;
+    white-space: normal;
+    overflow-wrap: break-word;
+}
+
 .book-card-container {
-    display: flex;
-    flex-direction: column;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    gap: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 10px;
+    row-gap: 15px;
+    margin: 10px 0;
     width: 100%;
+    padding: 50px;
     align-items: center;
+}
+
+.book-card h2 {
+    margin-left: 20px;
 }
 
 .book-card-container a {
@@ -67,6 +79,15 @@ h1 {
 }
 
 @media(max-width: 1100px) {
+    main {
+        padding: 10px;
+    }
+
+    .book-card-container {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
 
     .book-data-container h2 {
         font-size: 18px;
@@ -86,4 +107,19 @@ h1 {
         margin-left: 10px;
         font-weight: lighter;
     }
+}
+
+.no-results-msg {
+    display: flex;
+    font-size: 30px;
+    width: inherit;
+    height: inherit;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-results-msg p {
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-all;
 }

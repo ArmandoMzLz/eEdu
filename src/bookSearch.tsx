@@ -33,8 +33,8 @@ export default function BookSearch() {
 
     return(
         <main>
-        <Link to={"/"} style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
-        <p>Results for "{decoded}"</p>
+        <p className="result-txt">Results for "{decoded}"</p>
+        <Link to={"/"} className="return-btn" style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
         <div className="book-card-container">
             {filteredBooks.length > 0 ? (
                 filteredBooks.map((book) => (
@@ -50,7 +50,9 @@ export default function BookSearch() {
                     </Link>
                 ))
             ) : (
-                <p>No results found for "{decoded}"</p>
+                <div className="no-results-msg">
+                    <p>No results found for "{decoded}"</p>
+                </div>
             )}
         </div>
         </main>
