@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "name": "mathematics",
+            "subcategories": ["algebra", "discrete math", "geometry", "trigonometry", "calculus", "linear algebra", "numerical methods", "probability & statistics", "analysis"]
+        },
+        {
+            "name": "software",
+            "subcategories": ["data structures", "databases", "data science", "operating systems", "programming", "security", "software engineering"]
+        },
+        {
+            "name": "hardware",
+            "subcategories": ["computer architecture", "embedded systems", "digital systems", "networking"]
+        },
+        {
+            "name": "physics",
+            "subcategories": ["mechanical", "electrical", "relativistic"]
+        },
+        {
+            "name": "finance",
+            "subcategories": []
+        }
+    ]
+}

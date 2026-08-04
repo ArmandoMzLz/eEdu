@@ -5,7 +5,7 @@
             "title": "Administración de Base de Datos",
             "subtitle": "Diseño y Desarrollo de Aplicaciones",
             "author": "Michael V. Mannino",
-            "categories": ["base de datos", "database", "software", "sql"],
+            "categories": ["base de datos", "databases", "software", "sql"],
             "urlBook": "/books/AdministracionDeBaseDeDatos_MichaelVMannino.pdf",
             "urlCover": "/img/AdministracionDeBaseDeDatos_MichaelVMannino.jpg"
         },
@@ -23,7 +23,7 @@
             "title": "Desarrollo de Bases de Datos",
             "subtitle": "Casos Prácticos desde el Análisis a la Implementación",
             "author": "Dolores Cuadra, Elena Castro, Ana M. Iglesias, Paloma Martínez, Fco. Javier Calle, César de Pablo, Harth Al-Jumaily, Lourdes Moreno, Sonia García Manzano, José Luis Martínez, Jesica Rivero, Isabel Segura",
-            "categories": ["base de datos", "database", "software", "sql"],
+            "categories": ["base de datos", "databases", "software", "sql"],
             "urlBook": "/books/DesarrolloDeBaseDeDatos_Varios.pdf",
             "urlCover": "/img/DesarrolloDeBaseDeDatos_Varios.jpg"
         },
@@ -32,7 +32,7 @@
             "title": "Making Embedded Systems",
             "subtitle": "Design Patterns for Great Software",
             "author": "Elicia White",
-            "categories": ["software", "hardware", "embedded", "embebidos", "sistema", "programming", "programacion"],
+            "categories": ["software", "hardware", "embedded systems", "embebidos", "sistema", "programming", "programacion"],
             "urlBook": "/books/MakingEmbeddedSystems_EliciaWhite.pdf",
             "urlCover": "/img/MakingEmbeddedSystems_EliciaWhite.jpg"
         },
@@ -50,7 +50,7 @@
             "title": "Fundamentos de Base de Datos",
             "subtitle": "",
             "author": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
-            "categories": ["base de datos", "database", "software", "sql"],
+            "categories": ["base de datos", "databases", "software", "sql"],
             "urlBook": "/books/FundamentosDeBaseDeDatos_Varios.pdf",
             "urlCover": "/img/FundamentosDeBaseDeDatos_Varios.jpg"
         },
@@ -176,7 +176,7 @@
             "title": "Discrete Mathematics and Its Applications",
             "subtitle": "",
             "author": "Kenneth H. Rosen",
-            "categories": ["math", "mathematics", "matematicas", "discrete", "discretas"],
+            "categories": ["math", "mathematics", "matematicas", "discrete", "discretas", "discrete math"],
             "urlBook": "/books/DiscreteMathematicsAndItsApplications_KennethHRosen.pdf",
             "urlCover": "/img/DiscreteMathematicsAndItsApplications_KennethHRosen.jpg"
         },
@@ -284,7 +284,7 @@
             "title": "Building Microservices",
             "subtitle": "Designing Fine-Grained Systems",
             "author": "Sam Newman",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/BuildingMicroservices_SamuelNewman.pdf",
             "urlCover": "/img/BuildingMicroservices_SamuelNewman.jpg"
         },
@@ -293,7 +293,7 @@
             "title": "Designing Data-Intensive Applications",
             "subtitle": "The Big Ideas Behind Reliable, Scalable, And Maintainable Systems",
             "author": "Martin Kleppmann",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/DesigningDataIntensiveApplications_MartinKleppmann.pdf",
             "urlCover": "/img/DesigningDataIntensiveApplications_MartinKleppmann.jpg"
         },
@@ -302,7 +302,7 @@
             "title": "Learning Domain-Driven Design",
             "subtitle": "Aligning Software Architecture and Business Strategy",
             "author": "Vlad Khononov",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/LearningDomainDrivenDesign_VladikKhononov.pdf",
             "urlCover": "/img/LearningDomainDrivenDesign_VladikKhononov.jpg"
         },
@@ -311,7 +311,7 @@
             "title": "The Missing Readme",
             "subtitle": "A Guide For The New Software Engineer",
             "author": "Chris Riccomini, Dmitri Ryaboy",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "programming", "programacion"],
             "urlBook": "/books/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.pdf",
             "urlCover": "/img/TheMissingReadme_ChrisRiccominiAndDimitriRyaboy.jpg"
         },
@@ -320,7 +320,7 @@
             "title": "The Pragmatic Programmer",
             "subtitle": "From Journeyman to Master",
             "author": "Andrew Hunt, David Thomas",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "programming", "programacion"],
             "urlBook": "/books/ThePragmaticProgrammer_AndrewHuntDavidThomas.pdf",
             "urlCover": "/img/ThePragmaticProgrammer_AndrewHuntDavidThomas.jpg"
         },
@@ -329,7 +329,7 @@
             "title": "Fundamentals of Software Architecture",
             "subtitle": "An Engineering Approach",
             "author": "Marck Richards, Neal Ford",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.pdf",
             "urlCover": "/img/FundamentalsOfSoftwareArchitecture_MarkRichardsAndNealFord.jpg"
         }, 
@@ -365,7 +365,7 @@
             "title": "Designing Distributed Systems",
             "subtitle": "Patterns and Paradigms for Scalable, Reliable Systems Using Kubernets",
             "author": "Brenda Burns",
-            "categories": ["software", "engineering", "ingenieria", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/DesigningDistributedSystems_BrendaBurns.pdf",
             "urlCover": "/img/DesigningDistributedSystems_BrendaBurns.jpg"
         }, 
@@ -392,7 +392,7 @@
             "title": "Site Reliability Enginnering",
             "subtitle": "How Google Runs Production Systems",
             "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",
-            "categories": ["software", "system", "sistema"],
+            "categories": ["software", "system", "sistema", "software engineering"],
             "urlBook": "/books/SiteReliabilityEngineering_Varios.pdf",
             "urlCover": "/img/SiteReliabilityEngineering_Varios.jpg"
         }, 
@@ -527,7 +527,7 @@
             "title": "Embedded Systems Architecture",
             "subtitle": "A Comprehensive Guide for Engineers and Programmers",
             "author": "Tammy Noergaard",
-            "categories": ["hardware", "embedded", "embebidos", "sistema", "system"],
+            "categories": ["hardware", "embedded systems", "embebidos", "sistema", "system"],
             "urlBook": "/books/EmbeddedSystemsArchitecture_TammyNoergaard.pdf",
             "urlCover": "/img/EmbeddedSystemsArchitecture_TammyNoergaard.jpg"
         },
@@ -575,6 +575,78 @@
             "categories": ["software", "seguridad", "security"],
             "urlBook": "/books/BeautifulSecutity_Varios.pdf",
             "urlCover": "/img/BeautifulSecutity_Varios.jpg"
+        },
+        {
+            "id": 65,
+            "title": "Notes on Diffy Qs",
+            "subtitle": "Differential Equations for Engineers",
+            "author": "Jiri Lebl",
+            "categories": ["math", "mathematics", "matematicas", "calculus", "calculo"],
+            "urlBook": "/books/NotesOnDiffyQs_JiriLebl.pdf",
+            "urlCover": "/img/NotesOnDiffyQs_JiriLebl.jpg"
+        },
+        {
+            "id": 66,
+            "title": "Elementary Differential Equations with Boundary Value Problems",
+            "subtitle": "",
+            "author": "William F. Trench",
+            "categories": ["math", "mathematics", "matematicas", "calculus", "calculo"],
+            "urlBook": "/books/ElementaryDifferentialEquationswithBoundaryValueProblems_WilliamFTrench.pdf",
+            "urlCover": "/img/ElementaryDifferentialEquationswithBoundaryValueProblems_WilliamFTrench.jpg"
+        },
+        {
+            "id": 67,
+            "title": "A Visual Introduction to Differential Forms and Calculus on Manifolds",
+            "subtitle": "",
+            "author": "Jon Pierre Fortney",
+            "categories": ["math", "mathematics", "matematicas", "calculus", "calculo"],
+            "urlBook": "/books/AVisualIntroductionToDifferentialFormsAndCalculusOnManinfolds_Varios.pdf",
+            "urlCover": "/img/AVisualIntroductionToDifferentialFormsAndCalculusOnManinfolds_Varios.jpg"
+        },
+        {
+            "id": 68,
+            "title": "An Introduction to the Geometry of Numbers",
+            "subtitle": "",
+            "author": "J. W. S. Cassels",
+            "categories": ["math", "mathematics", "matematicas", "geometry", "geometria"],
+            "urlBook": "/books/AnIntroductionToTheGeometryOfNumbers_Varios.pdf",
+            "urlCover": "/img/AnIntroductionToTheGeometryOfNumbers_Varios.jpg"
+        },
+        {
+            "id": 69,
+            "title": "Elementary Geometry from an Advanced Standpoint",
+            "subtitle": "",
+            "author": "Edwin E. Moise",
+            "categories": ["math", "mathematics", "matematicas", "geometry", "geometria"],
+            "urlBook": "/books/ElementaryGeometryFromAnAdvancedStandpoint_EdwinEMoise.pdf",
+            "urlCover": "/img/ElementaryGeometryFromAnAdvancedStandpoint_EdwinEMoise.jpg"
+        },
+        {
+            "id": 70,
+            "title": "Trigonometry",
+            "subtitle": "",
+            "author": "I.M. Gelfand, M. Saul",
+            "categories": ["math", "mathematics", "matematicas", "trigonometry", "trigonometria"],
+            "urlBook": "/books/Trigonometry_IMGelfandAndMSaul.pdf",
+            "urlCover": "/img/Trigonometry_IMGelfandAndMSaul.jpg"
+        },
+        {
+            "id": 71,
+            "title": "Analysis I",
+            "subtitle": "",
+            "author": "Terence Tao",
+            "categories": ["math", "mathematics", "matematicas", "analysis", "analisis"],
+            "urlBook": "/books/AnalysisI_TerenceTao.pdf",
+            "urlCover": "/img/AnalysisI_TerenceTao.jpg"
+        },
+        {
+            "id": 72,
+            "title": "Analysis II",
+            "subtitle": "",
+            "author": "Terence Tao",
+            "categories": ["math", "mathematics", "matematicas", "analysis", "analisis"],
+            "urlBook": "/books/AnalysisII_TerenceTao.pdf",
+            "urlCover": "/img/AnalysisII_TerenceTao.jpg"
         }
     ]
 }

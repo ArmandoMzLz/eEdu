@@ -1,10 +1,23 @@
-import { Link, useNavigate } from "react-router-dom";
-import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { useState, useEffect } from "react";
 import './style/bookList.css'
+import type { Category } from "./types/categories";
+import BookMenu from "./components/bookMenu";
 
 export default function BookList() {
     const [ searchQuery, setSearchQuery ] = useState("");
+    const [categories, setCategories] = useState<Category[]>([]);
     const navigate = useNavigate();
+
+    useEffect(() => {
+        fetch('/data/categories.json')
+            .then((res) => {
+                if (!res.ok) throw new Error(`Error ${res.status}`);
+                return res.json();
+            })
+            .then((data: { categories: Category[] }) => setCategories(data.categories))
+            .catch((err) => console.error(err));
+    }, []);
 
     function handleSearchSubmit(e: React.FormEvent) {
         e.preventDefault();
@@ -33,37 +46,11 @@ export default function BookList() {
                 </button>
             </form>
             <h2 style={{ fontSize: '40px' }}>Main Categories</h2>
-            <div className="category-card-container">
-                <Link to={`/category/${encodeURIComponent('mathematics')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Mathematics</h3>
-                    </div>
-                </Link>
-                <Link to={`/category/${encodeURIComponent('engineering')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Engineering</h3>
-                    </div>
-                </Link>
-                <Link to={`/category/${encodeURIComponent('software')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Software</h3>
-                    </div>
-                </Link>
-                <Link to={`/category/${encodeURIComponent('hardware')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Hardware</h3>
-                    </div>
-                </Link>
-                <Link to={`/category/${encodeURIComponent('physics')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Physics and Science</h3>
-                    </div>
-                </Link>
-                <Link to={`/category/${encodeURIComponent('finance')}`} style={{ textDecoration: 'none'}}>
-                    <div className="category-card">
-                        <h3>Finance</h3>
-                    </div>
-                </Link>
+            
+            <div className="category-menu-container">
+                {categories.map((category) => (
+                    <BookMenu key={category.name} category={category} />
+                ))}
             </div>
         </main>
     );

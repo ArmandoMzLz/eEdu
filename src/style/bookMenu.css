@@ -1,0 +1,42 @@
+@import './App.css';
+
+.dropdown-container {
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.dropdown-container:hover {
+    background-color: var(--dark-accent-color);
+    transform: translateY(-5px);
+}
+
+.dropdown-menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.dropdown-header {
+    font-size: 40px;
+}
+
+.dropdown-item {
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 10px;
+    color: var(--text-color);
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+}
+
+.dropdown-item:hover {
+    background-color: var(--terciary-color);
+    transform: translateY(-5px);
+}
+
+@media (max-width: 1100px) {
+    .dropdown-container {
+        width: 80%;
+    }
+}
