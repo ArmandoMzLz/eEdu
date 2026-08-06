@@ -15,3 +15,5 @@ The main topics of the books are:
 - Finance
 
 You can visit the site [here](https://eedu.onrender.com).
+
+Future updates will only include more books or fixes.
