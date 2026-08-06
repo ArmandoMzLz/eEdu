@@ -65,7 +65,7 @@
         },
         {
             "id": 8,
-            "title": "Fundamentos de Sistemas Operativos",
+            "title": "Operating System Concepts",
             "subtitle": "",
             "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gangne",
             "categories": ["software", "operating systems", "sistemas operativos", "sistema", "system"],
@@ -86,7 +86,7 @@
             "title": "Probabilidad y Estadística para Ingeniería y Ciencias",
             "subtitle": "",
             "author": "Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye",
-            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "statistics"],
+            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "probabilidad", "probability", "estadistica", "statistics", "probability and statistics"],
             "urlBook": "/books/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.pdf",
             "urlCover": "/img/ProbabilidadYEstadisticaParaIngenieriasYCiencias_Varios.jpg"
         },
@@ -113,7 +113,7 @@
             "title": "Física para Ciencias e Ingeniería",
             "subtitle": "Volumen 1",
             "author": "Raymond A. Serway, John W. Jewett, Jr.",
-            "categories": ["physics", "fisica", "ingenieria", "engineering"],
+            "categories": ["physics", "fisica", "ingenieria", "engineering", "classical mechanics"],
             "urlBook": "/books/FisicaParaCienciasEIngenieriaVolumen1_RaymondASerway.pdf",
             "urlCover": "/img/FisicaParaCienciasEIngenieriaVolumen1_RaymondASerway.jpg"
         },
@@ -122,7 +122,7 @@
             "title": "Física para Ciencias e Ingeniería con Física Moderna",
             "subtitle": "Volumen 2",
             "author": "Raymond A. Serway, John W. Jewett, Jr.",
-            "categories": ["physics", "fisica", "ingenieria", "engineering"],
+            "categories": ["physics", "fisica", "ingenieria", "engineering", "electromagnetism"],
             "urlBook": "/books/FisicaParaCienciasEIngenieriaVolumen2_RaymondASerway.pdf",
             "urlCover": "/img/FisicaParaCienciasEIngenieriaVolumen2_RaymondASerway.jpg"
         },
@@ -131,7 +131,7 @@
             "title": "The Character of Physical Law",
             "subtitle": "",
             "author": "Richard Feynman",
-            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
+            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica", "relativity"],
             "urlBook": "/books/TheCharacterOfPhysicsLaw_RichardFeynman.pdf",
             "urlCover": "/img/TheCharacterOfPhysicsLaw_RichardFeynman.jpg"
         },
@@ -140,7 +140,7 @@
             "title": "Cosmos",
             "subtitle": "",
             "author": "Carl Sagan",
-            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
+            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica", "relativity"],
             "urlBook": "/books/Cosmos_CarlSagan.pdf",
             "urlCover": "/img/Cosmos_CarlSagan.jpg"
         },
@@ -149,7 +149,7 @@
             "title": "Black Holes and Time Warps",
             "subtitle": "Einstein's Outrageous Legacy",
             "author": "Kip S. Thorne",
-            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
+            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica", "relativity"],
             "urlBook": "/books/BlackHolesAndTimeWarps_KipSThorne.pdf",
             "urlCover": "/img/BlackHolesAndTimeWarps_KipSThorne.jpg"
         },
@@ -158,7 +158,7 @@
             "title": "Welcome to the Universe",
             "subtitle": "An Astrophysical Tour",
             "author": "Neil de Grasse Tyson, J. Richard Gott, Michael A. Strauss",
-            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
+            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica", "relativity"],
             "urlBook": "/books/WelcomeToTheUniverse_NeilTysonAndRichardGottAndMichaelA.pdf",
             "urlCover": "/img/WelcomeToTheUniverse_NeilTysonAndRichardGottAndMichaelA.jpg"
         },
@@ -167,7 +167,7 @@
             "title": "The First Three Minutes",
             "subtitle": "A modern view of the origin of the universe",
             "author": "Steven Weinberg",
-            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica"],
+            "categories": ["physics", "fisica", "science", "ciencia", "astrophysics", "astrofisica", "relativity"],
             "urlBook": "/books/TheFirstThreeMinutes_StevenWeinberg.pdf",
             "urlCover": "/img/TheFirstThreeMinutes_StevenWeinberg.jpg"
         },
@@ -185,7 +185,7 @@
             "title": "Advanced Engineering Mathematics",
             "subtitle": "",
             "author": "Erwin Kreyszig",
-            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering"],
+            "categories": ["math", "mathematics", "matematicas", "ingenieria", "engineering", "metodos numericos", "numerical methods"],
             "urlBook": "/books/AdvancedEngineeringMathematics_ErwinKreyszig.pdf",
             "urlCover": "/img/AdvancedEngineeringMathematics_ErwinKreyszig.jpg"
         },
@@ -194,7 +194,7 @@
             "title": "Fundamentals of Physics",
             "subtitle": "",
             "author": "David Halliday, Robert Resnick",
-            "categories": ["physics", "fisica", "ingenieria", "engineering"],
+            "categories": ["physics", "fisica", "ingenieria", "engineering", "classical mechanics", "electromagnetism"],
             "urlBook": "/books/FundamentalsOfPhysics_HallidayAndResnick.pdf",
             "urlCover": "/img/FundamentalsOfPhysics_HallidayAndResnick.jpg"
         },
@@ -212,7 +212,7 @@
             "title": "Semiconductor Devices",
             "subtitle": "Theory and Application",
             "author": "James M. Fiore",
-            "categories": ["engineering", "ingenieria", "hardware", "electrical", "electricidad"],
+            "categories": ["engineering", "ingenieria", "hardware", "electrical", "electricidad", "electromagnetism"],
             "urlBook": "/books/SemiconductorDevicesTheoryAndApplication_JamesMFiore.pdf",
             "urlCover": "/img/SemiconductorDevicesTheoryAndApplication_JamesMFiore.jpg"
         },
@@ -221,7 +221,7 @@
             "title": "Electromagnetics",
             "subtitle": "Volume 1",
             "author": "Steven W. Ellingson",
-            "categories": ["electrical", "electricidad", "physics", "fisica"],
+            "categories": ["electrical", "electricidad", "physics", "fisica", "electromagnetism"],
             "urlBook": "/books/ElectromagneticsVolume1_StevenWEllingson.pdf",
             "urlCover": "/img/ElectromagneticsVolume1_StevenWEllingson.jpg"
         },
@@ -230,7 +230,7 @@
             "title": "Electromagnetics",
             "subtitle": "Volume 2",
             "author": "Steven W. Ellingson",
-            "categories": ["electrical", "electricidad", "physics", "fisica"],
+            "categories": ["electrical", "electricidad", "physics", "fisica", "electromagnetism"],
             "urlBook": "/books/ElectromagneticsVolume2_StevenWEllingson.pdf",
             "urlCover": "/img/ElectromagneticsVolume2_StevenWEllingson.jpg"
         },
@@ -239,7 +239,7 @@
             "title": "Álgebra Lineal y sus Aplicaciones",
             "subtitle": "",
             "author": "David C. Lay",
-            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "categories": ["math", "mathematics", "matematicas", "linear algebra", "algebra lineal"],
             "urlBook": "/books/AlgebraLinealYSusAplicaciones_DavidCLay.pdf",
             "urlCover": "/img/AlgebraLinealYSusAplicaciones_DavidCLay.jpg"
         },
@@ -248,7 +248,7 @@
             "title": "Álgebra Lineal",
             "subtitle": "",
             "author": "Stanley I. Grossman S., José Job Flores Godoy",
-            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "categories": ["math", "mathematics", "matematicas", "linear algebra", "algebra lineal"],
             "urlBook": "/books/AlgebraLineal_StanleyIGrossmanSAndJoseJobFloresGodoy.pdf",
             "urlCover": "/img/AlgebraLineal_StanleyIGrossmanSAndJoseJobFloresGodoy.jpg"
         },
@@ -410,7 +410,7 @@
             "title": "Linear Algebra Done Right",
             "subtitle": "",
             "author": "Sheldon Axler",
-            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "categories": ["math", "mathematics", "matematicas", "linear algebra", "algebra lineal"],
             "urlBook": "/books/LinearAlgebraDoneRight_SheldonAxler.pdf",
             "urlCover": "/img/LinearAlgebraDoneRight_SheldonAxler.jpg"
         },
@@ -419,7 +419,7 @@
             "title": "Linear Algebra",
             "subtitle": "",
             "author": "Georgi E. Shilov",
-            "categories": ["math", "mathematics", "matematicas", "algebra", "linear algebra", "algebra lineal"],
+            "categories": ["math", "mathematics", "matematicas", "linear algebra", "algebra lineal"],
             "urlBook": "/books/LinearAlgebra_GeorgiEShilov.pdf",
             "urlCover": "/img/LinearAlgebra_GeorgiEShilov.jpg"
         },
@@ -518,7 +518,7 @@
             "title": "The TCP/IP Guide",
             "subtitle": "",
             "author": "Charles M. Kozierok",
-            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications", "networking"],
             "urlBook": "/books/TheTcpIpGuide_CharlesMKozierok.pdf",
             "urlCover": "/img/TheTcpIpGuide_CharlesMKozierok.jpg"
         },
@@ -536,7 +536,7 @@
             "title": "Computer Networking",
             "subtitle": "A Top-Down Approach",
             "author": "James F. Kurose, Keith W. Ross",
-            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications", "networking"],
             "urlBook": "/books/ComputerNetworking_Varios.pdf",
             "urlCover": "/img/ComputerNetworking_Varios.jpg"
         },
@@ -545,7 +545,7 @@
             "title": "Networking Fundamentals",
             "subtitle": "CCNA Exploration Companion Guide",
             "author": "Mark A. Dye, Rick McDonald, Antoon W. Rufi",
-            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications", "networking"],
             "urlBook": "/books/NetworkingFundamentals_Varios.pdf",
             "urlCover": "/img/NetworkingFundamentals_Varios.jpg"
         },
@@ -554,7 +554,7 @@
             "title": "Redes Cisco",
             "subtitle": "Guía de Estudio para la Certificación CCNA 200-301",
             "author": "Ernesto Ariganello",
-            "categories": ["hardware", "network", "red", "comunicaciones", "comunications"],
+            "categories": ["hardware", "network", "red", "comunicaciones", "comunications", "networking"],
             "urlBook": "/books/RedesCisco_ErnestoAriganello.pdf",
             "urlCover": "/img/RedesCisco_ErnestoAriganello.jpg"
         },
@@ -647,6 +647,199 @@
             "categories": ["math", "mathematics", "matematicas", "analysis", "analisis"],
             "urlBook": "/books/AnalysisII_TerenceTao.pdf",
             "urlCover": "/img/AnalysisII_TerenceTao.jpg"
+        },
+        {
+            "id": 73,
+            "title": "Basic Mathematics",
+            "subtitle": "",
+            "author": "Serge Lang",
+            "categories": ["math", "mathematics", "matematicas", "algebra"],
+            "urlBook": "/books/BasicMathematics_SergeLang.pdf",
+            "urlCover": "/img/BasicMathematics_SergeLang.jpg"
+        },
+        {
+            "id": 74,
+            "title": "Introductory Statistics",
+            "subtitle": "",
+            "author": "Neil A. Weiss",
+            "categories": ["math", "mathematics", "matematicas", "probability", "probabilidad", "statistics", "estadistica", "probability and statistics"],
+            "urlBook": "/books/IntroductoryStatistics_NeilAWeiss.pdf",
+            "urlCover": "/img/IntroductoryStatistics_NeilAWeiss.jpg"
+        },
+        {
+            "id": 75,
+            "title": "The Algorithm Design Manual",
+            "subtitle": "",
+            "author": "Steven S. Skiena",
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "urlBook": "/books/TheAlgorithmDesignManual_StevenSSkiena.pdf",
+            "urlCover": "/img/TheAlgorithmDesignManual_StevenSSkiena.jpg"
+        },
+        {
+            "id": 76,
+            "title": "A Common-Sense Guide to Data Structures and Algorithms",
+            "subtitle": "Level Up Your Core Programming Skills",
+            "author": "Jay Wengrow",
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "urlBook": "/books/ACommonSenseGuideToDataStructuresAndAlgorithms_Jay Wengrow.pdf",
+            "urlCover": "/img/ACommonSenseGuideToDataStructuresAndAlgorithms_Jay Wengrow.jpg"
+        },
+        {
+            "id": 77,
+            "title": "Introduction to Algorithms",
+            "subtitle": "",
+            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "urlBook": "/books/IntroductionToAlgorithms_Varios.pdf",
+            "urlCover": "/img/IntroductionToAlgorithms_Varios.jpg"
+        },
+        {
+            "id": 78,
+            "title": "Introduction to Probability Models",
+            "subtitle": "",
+            "author": "Sheldon M. Ross",
+            "categories": ["math", "mathematics", "matematicas", "probability", "probabilidad", "statistics", "estadistica", "probability and statistics"],
+            "urlBook": "/books/IntroductionToProbabilityModels_SheldonMRoss.pdf",
+            "urlCover": "/img/IntroductionToProbabilityModels_SheldonMRoss.jpg"
+        },
+        {
+            "id": 79,
+            "title": "Estadística Matemática",
+            "subtitle": "Con Aplicaciones",
+            "author": "Dennis D. Wackerly, William Mendenhall III, Richard L. Scheaffer",
+            "categories": ["math", "mathematics", "matematicas", "probability", "probabilidad", "statistics", "estadistica", "probability and statistics"],
+            "urlBook": "/books/EstadisticaMatematica_Varios.pdf",
+            "urlCover": "/img/EstadisticaMatematica_Varios.jpg"
+        },
+        {
+            "id": 80,
+            "title": "Algebra And Trigonometry",
+            "subtitle": "",
+            "author": "James Stewart, Lothar Redlin, Saleem Watson",
+            "categories": ["math", "mathematics", "matematicas", "algebra", "trigonometry", "trigonometria"],
+            "urlBook": "/books/AlgebraAndTrigonometry_Varios.pdf",
+            "urlCover": "/img/AlgebraAndTrigonometry_Varios.jpg"
+        },
+        {
+            "id": 81,
+            "title": "Numerical Analysis",
+            "subtitle": "",
+            "author": "Richard L. Burden, J. Douglas Faires",
+            "categories": ["math", "mathematics", "matematicas", "numerical methods", "metodos numericos"],
+            "urlBook": "/books/NumericalAnalysis_Varios.pdf",
+            "urlCover": "/img/NumericalAnalysis_Varios.jpg"
+        },
+        {
+            "id": 82,
+            "title": "Applied Numerical Methods with MATLAB",
+            "subtitle": "for Engineers and Scientists",
+            "author": "Steven C. Chapra",
+            "categories": ["math", "mathematics", "matematicas", "numerical methods", "metodos numericos"],
+            "urlBook": "/books/ApplieNumericalMethodsWithMATLAB_StevenCChapra.pdf",
+            "urlCover": "/img/ApplieNumericalMethodsWithMATLAB_StevenCChapra.jpg"
+        },
+        {
+            "id": 83,
+            "title": "Concrete Mathematics",
+            "subtitle": "A Foundation for Computer Science",
+            "author": "Ronald L. Graham, Donald E. Knuth, Oren Patashnik",
+            "categories": ["math", "mathematics", "matematicas", "discrete math", "matematicas discretas"],
+            "urlBook": "/books/ConcreteMathematics_Varios.pdf",
+            "urlCover": "/img/ConcreteMathematics_Varios.jpg"
+        },
+        {
+            "id": 84,
+            "title": "Introductory Discrete Mathematics",
+            "subtitle": "",
+            "author": "V. K. Balakrishnan",
+            "categories": ["math", "mathematics", "matematicas", "discrete math", "matematicas discretas"],
+            "urlBook": "/books/IntroductoryDiscreteMathematics_VKBalakrishnan.pdf",
+            "urlCover": "/img/IntroductoryDiscreteMathematics_VKBalakrishnan.jpg"
+        },
+        {
+            "id": 85,
+            "title": "Clean Architecture",
+            "subtitle": "A Craftsman's Guide to Software Structure and Design",
+            "author": "Robert C. Martin",
+            "categories": ["software", "software engineering", "ingenieria"],
+            "urlBook": "/books/CleanArchitecture_RobertCMartin.pdf",
+            "urlCover": "/img/CleanArchitecture_RobertCMartin.jpg"
+        }
+        ,
+        {
+            "id": 86,
+            "title": "Clean Code",
+            "subtitle": "A Handbook of Agile Software Craftsmanship",
+            "author": "Robert C. Martin",
+            "categories": ["software", "programming", "programacion"],
+            "urlBook": "/books/CleanCode_RobertCMartin.pdf",
+            "urlCover": "/img/CleanCode_RobertCMartin.jpg"
+        }
+        ,
+        {
+            "id": 87,
+            "title": "Grokking Algorithms",
+            "subtitle": "An Illustrated Guide for Programmers and Other Curious People",
+            "author": "Aditya Y. Bhargava",
+            "categories": ["software", "programming", "programacion", "data structures", "estructura de datos"],
+            "urlBook": "/books/GrokkingAlgorithms_AdityaYBhargava.pdf",
+            "urlCover": "/img/GrokkingAlgorithms_AdityaYBhargava.jpg"
+        }
+        ,
+        {
+            "id": 88,
+            "title": "The C++ Programming Language",
+            "subtitle": "",
+            "author": "Bjarne Stroustrup",
+            "categories": ["software", "programming", "programacion"],
+            "urlBook": "/books/TheCppProgrammingLanguage_BjarneStroustrup.pdf",
+            "urlCover": "/img/TheCppProgrammingLanguage_BjarneStroustrup.jpg"
+        }
+        ,
+        {
+            "id": 89,
+            "title": "Trigonometry",
+            "subtitle": "CalcChat and CalcView",
+            "author": "Ron Larson",
+            "categories": ["math", "mathematics", "matematicas", "trigonometry", "trigonometria"],
+            "urlBook": "/books/TrigonometryWithCalcChatAndCalcView_RonLarson.pdf",
+            "urlCover": "/img/TrigonometryWithCalcChatAndCalcView_RonLarson.jpg"
+        },
+        {
+            "id": 90,
+            "title": "Computer Architecture",
+            "subtitle": "A Quantitative Approach",
+            "author": "John L. Hennessy, David A. Patterson",
+            "categories": ["hardware", "computer architecture", "arquitectura"],
+            "urlBook": "/books/ComputerArchitecture_Varios.pdf",
+            "urlCover": "/img/ComputerArchitecture_Varios.jpg"
+        },
+        {
+            "id": 91,
+            "title": "Computer Organization And Design",
+            "subtitle": "The Hardware/Software Interface",
+            "author": "John L. Hennessy, David A. Patterson",
+            "categories": ["hardware", "computer architecture", "arquitectura"],
+            "urlBook": "/books/ComputerOrganizationAndDesign_Varios.pdf",
+            "urlCover": "/img/ComputerOrganizationAndDesign_Varios.jpg"
+        },
+        {
+            "id": 92,
+            "title": "Computer Organization And Design",
+            "subtitle": "The Hardware/Software Interface: RISC-V Edition",
+            "author": "John L. Hennessy, David A. Patterson",
+            "categories": ["hardware", "computer architecture", "arquitectura"],
+            "urlBook": "/books/ComputerOrganizationAndDesignRiscV_Varios.pdf",
+            "urlCover": "/img/ComputerOrganizationAndDesignRiscV_Varios.jpg"
+        },
+        {
+            "id": 93,
+            "title": "Digital Integrated Circuits",
+            "subtitle": "A Design Perspective",
+            "author": "Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolic",
+            "categories": ["hardware", "computer architecture", "arquitectura"],
+            "urlBook": "/books/DigitalIntegratedCircuits_Varios.pdf",
+            "urlCover": "/img/DigitalIntegratedCircuits_Varios.jpg"
         }
     ]
 }

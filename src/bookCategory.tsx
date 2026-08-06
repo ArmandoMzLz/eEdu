@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import type { Book } from "./types/book";
 import './style/bookCategory.css';
+import Card from "react-bootstrap/Card";
 
 export default function BookCategory() {
     const { categoryName } = useParams<{ categoryName: string }>();
@@ -30,18 +31,16 @@ export default function BookCategory() {
             <Link to={"/"} className="return-btn" style={{ textDecoration: 'none'}}>&larr; Return to catalog</Link>
             <div className="book-card-container">
                 {books.filter(book => book.categories.includes(decoded)).map((book) =>
-                    <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none'}}>
-                        <div className="book-card" >
-                            <div className="book-image-container">
-                                <img src={book.urlCover} />
-                            </div>
-                            <div className="book-data-container">
-                                <h2>{book.title}</h2>
-                                <h3>{book.subtitle}</h3>
-                                <h4>{book.author}</h4>
-                            </div>
-                        </div>
-                    </Link>
+                    <Card as={Link} to={`/book/${book.id}`} className="book-card">
+                        <Card.Img src={book.urlCover} className="book-card-image" />
+                        <Card.Body>
+                            <Card.Header>
+                                <Card.Title className="book-card-title">{book.title}</Card.Title>
+                            </Card.Header>
+                            <Card.Text className="book-card-subtitle">{book.subtitle}</Card.Text>
+                            <Card.Text className="book-card-author">{book.author}</Card.Text>
+                        </Card.Body>
+                    </Card>
                 )}
             </div>
         </main>

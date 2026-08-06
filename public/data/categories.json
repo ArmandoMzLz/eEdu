@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "mathematics",
-            "subcategories": ["algebra", "discrete math", "geometry", "trigonometry", "calculus", "linear algebra", "numerical methods", "probability & statistics", "analysis"]
+            "subcategories": ["algebra", "discrete math", "geometry", "trigonometry", "calculus", "linear algebra", "numerical methods", "probability and statistics", "analysis"]
         },
         {
             "name": "software",
@@ -14,7 +14,7 @@
         },
         {
             "name": "physics",
-            "subcategories": ["mechanical", "electrical", "relativistic"]
+            "subcategories": ["classical mechanics", "electromagnetism", "relativity"]
         },
         {
             "name": "finance",

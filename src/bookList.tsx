@@ -31,6 +31,10 @@ export default function BookList() {
     return (
         <main className="main-container">
             <h1 style={{ fontSize: '100px' }}>eEdu</h1>
+            <div className="counter-container">
+                <p>Total books: </p>
+                <div className="counter"></div>     
+            </div>
             <form className="search-container" onSubmit={handleSearchSubmit}>
                 <div className="search-icon-container">
                     <img className="search-icon" src="search.svg" />

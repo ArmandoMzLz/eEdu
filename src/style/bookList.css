@@ -56,6 +56,42 @@
     justify-content: center;
 }
 
+@property --num {
+    syntax: "<integer>";
+    initial-value: 0;
+    inherits: false;
+}
+
+.counter-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.counter-container p {
+    margin: 0 10px;
+}
+
+.counter {
+    counter-reset: score var(--num);
+    animation: countUp 5s ease-out forwards;
+}
+
+.counter::before {
+    content: counter(score);
+}
+
+@keyframes countUp {
+    from {
+        --num: 0;
+    }
+    to {
+        --num: 93;
+    }
+}
+
 @media (max-width: 1100px) {
     .search-input {
         width: 300px;
