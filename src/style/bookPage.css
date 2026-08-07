@@ -42,6 +42,8 @@
     background-color: var(--terciary-color);
     border: none;
     cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
 }
 
 .next-prev-btn:disabled {
@@ -63,12 +65,14 @@
 }
 
 .zoom-btn {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     border: none;
     cursor: pointer;
     color: var(--contrast-color);
     background-color: var(--terciary-color);
+    border-radius: 50px;
+    font-size: 20px;
 }
 
 .zoom-btn:disabled {

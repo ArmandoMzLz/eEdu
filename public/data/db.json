@@ -41,7 +41,7 @@
             "title": "Estructura de Datos",
             "subtitle": "",
             "author": "Osvaldo Cairó, Silvia Guardati",
-            "categories": ["software", "programming", "programacion", "data", "data structures", "datos", "estructura de datos"],
+            "categories": ["software", "programming", "programacion", "data", "data structures", "datos", "estructura de datos", "data structures and algorithms"],
             "urlBook": "/books/EsctructuraDeDatos_OsvaldoCairoAndSilviaGuardati.pdf",
             "urlCover": "/img/EsctructuraDeDatos_OsvaldoCairoAndSilviaGuardati.jpg"
         },
@@ -446,7 +446,7 @@
             "title": "Trades, Quotes and Prices",
             "subtitle": "Financial Markets Under the Microscope",
             "author": "Jean-Philippe Bouchad, Julius Bonart, Jonathan Donier, Martin Gould",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "quant"],
             "urlBook": "/books/TradesQuotesAndPrices_Varios.pdf",
             "urlCover": "/img/TradesQuotesAndPrices_Varios.jpg"
         },
@@ -455,7 +455,7 @@
             "title": "Mathematical Theory of Bayesian Statistics",
             "subtitle": "",
             "author": "Sumio Watanabe",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "statistics", "estadistica"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "statistics", "estadistica", "quant"],
             "urlBook": "/books/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.pdf",
             "urlCover": "/img/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.jpg"
         },
@@ -482,7 +482,7 @@
             "title": "Theory of Financial Risk and Derivative Pricing",
             "subtitle": "From Statistical Physics to Risk Management",
             "author": "Jean-Philippe Bouchad, Marc Potters",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "statistics", "estadistica"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "quant"],
             "urlBook": "/books/TheoryOfFinancialRiskAndDerivativePricing_Varios.pdf",
             "urlCover": "/img/TheoryOfFinancialRiskAndDerivativePricing_Varios.jpg"
         },
@@ -671,7 +671,7 @@
             "title": "The Algorithm Design Manual",
             "subtitle": "",
             "author": "Steven S. Skiena",
-            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos", "data structures and algorithms"],
             "urlBook": "/books/TheAlgorithmDesignManual_StevenSSkiena.pdf",
             "urlCover": "/img/TheAlgorithmDesignManual_StevenSSkiena.jpg"
         },
@@ -680,7 +680,7 @@
             "title": "A Common-Sense Guide to Data Structures and Algorithms",
             "subtitle": "Level Up Your Core Programming Skills",
             "author": "Jay Wengrow",
-            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos", "data structures and algorithms"],
             "urlBook": "/books/ACommonSenseGuideToDataStructuresAndAlgorithms_Jay Wengrow.pdf",
             "urlCover": "/img/ACommonSenseGuideToDataStructuresAndAlgorithms_Jay Wengrow.jpg"
         },
@@ -689,7 +689,7 @@
             "title": "Introduction to Algorithms",
             "subtitle": "",
             "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
-            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos"],
+            "categories": ["software", "programming", "programacion", "algorithms", "algoritmos", "data structures", "estructura de datos", "data structures and algorithms"],
             "urlBook": "/books/IntroductionToAlgorithms_Varios.pdf",
             "urlCover": "/img/IntroductionToAlgorithms_Varios.jpg"
         },
@@ -781,7 +781,7 @@
             "title": "Grokking Algorithms",
             "subtitle": "An Illustrated Guide for Programmers and Other Curious People",
             "author": "Aditya Y. Bhargava",
-            "categories": ["software", "programming", "programacion", "data structures", "estructura de datos"],
+            "categories": ["software", "programming", "programacion", "data structures", "estructura de datos", "data structures and algorithms"],
             "urlBook": "/books/GrokkingAlgorithms_AdityaYBhargava.pdf",
             "urlCover": "/img/GrokkingAlgorithms_AdityaYBhargava.jpg"
         }
@@ -840,6 +840,87 @@
             "categories": ["hardware", "computer architecture", "arquitectura"],
             "urlBook": "/books/DigitalIntegratedCircuits_Varios.pdf",
             "urlCover": "/img/DigitalIntegratedCircuits_Varios.jpg"
+        },
+        {
+            "id": 94,
+            "title": "Measuring and Managing Information Risk",
+            "subtitle": "A Fair Approach",
+            "author": "Jack Freund, Jack Jones",
+            "categories": ["software", "security", "seguridad"],
+            "urlBook": "/books/MeasuringAndManagingInformationRisk_Varios.pdf",
+            "urlCover": "/img/MeasuringAndManagingInformationRisk_Varios.jpg"
+        },
+        {
+            "id": 95,
+            "title": "The CERT Guide to Insider Threats",
+            "subtitle": "How to Prevent, Detect, and Respond to Information Technology Crimes (Theft, Sabotage, Fraud)",
+            "author": "Dawn Capelli, Andrew Moore, Randall Trzeciak",
+            "categories": ["software", "security", "seguridad"],
+            "urlBook": "/books/TheCertGuideToInsiderThreats_Varios.pdf",
+            "urlCover": "/img/TheCertGuideToInsiderThreats_Varios.jpg"
+        },
+        {
+            "id": 96,
+            "title": "Zero Trust Networks",
+            "subtitle": "Building Secure Systems in Untrusted Networks",
+            "author": "Razi Rais, Christina Morillo, Evan Gilman & Doug Barth",
+            "categories": ["software", "security", "seguridad"],
+            "urlBook": "/books/ZeroTrustNetworks_Varios.pdf",
+            "urlCover": "/img/ZeroTrustNetworks_Varios.jpg"
+        },
+        {
+            "id": 97,
+            "title": "Security Engineering",
+            "subtitle": "A Guide To Building Dependable Distributed Systems",
+            "author": "Ross Anderson",
+            "categories": ["software", "security", "seguridad"],
+            "urlBook": "/books/SecurityEngineering_Varios.pdf",
+            "urlCover": "/img/SecurityEngineering_Varios.jpg"
+        },
+        {
+            "id": 98,
+            "title": "Security Chaos Engineering",
+            "subtitle": "Sustaining Resilience in Software and Systems",
+            "author": "Kelly Shortridge, Aaron Rinehart",
+            "categories": ["software", "security", "seguridad"],
+            "urlBook": "/books/SecurityChaosEngineering_Varios.pdf",
+            "urlCover": "/img/SecurityChaosEngineering_Varios.jpg"
+        },
+        {
+            "id": 99,
+            "title": "Options, Futures, And Other Derivatives",
+            "subtitle": "",
+            "author": "John Hull",
+            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "trading"],
+            "urlBook": "/books/OptionFuturesAndOtherDerivatives_JohnCHull.pdf",
+            "urlCover": "/img/OptionFuturesAndOtherDerivatives_JohnCHull.jpg"
+        },
+        {
+            "id": 100,
+            "title": "The Statistical Mechanics of Financial Markets",
+            "subtitle": "",
+            "author": "Johannes Voit",
+            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "quant"],
+            "urlBook": "/books/TheStatisticalMechanicsOfFinancialMarkets_JohannesVoit.pdf",
+            "urlCover": "/img/TheStatisticalMechanicsOfFinancialMarkets_JohannesVoit.jpg"
+        },
+        {
+            "id": 101,
+            "title": "Systematic Trading",
+            "subtitle": "A Unique New Method for Designing Trading and Investing Systems",
+            "author": "Robert Carver",
+            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "trading"],
+            "urlBook": "/books/SystematicTrading_RobertCarver.pdf",
+            "urlCover": "/img/SystematicTrading_RobertCarver.jpg"
+        },
+        {
+            "id": 102,
+            "title": "Trading Systems And Methods",
+            "subtitle": "",
+            "author": "Perry J. Kaufman",
+            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "trading"],
+            "urlBook": "/books/TradingSystemsAndMethods_PerryJKaufman.pdf",
+            "urlCover": "/img/TradingSystemsAndMethods_PerryJKaufman.jpg"
         }
     ]
 }

@@ -6,7 +6,7 @@
         },
         {
             "name": "software",
-            "subcategories": ["data structures", "databases", "data science", "operating systems", "programming", "security", "software engineering"]
+            "subcategories": ["data structures and algorithms", "databases", "data science", "operating systems", "programming", "security", "software engineering"]
         },
         {
             "name": "hardware",
@@ -18,7 +18,7 @@
         },
         {
             "name": "finance",
-            "subcategories": []
+            "subcategories": ["trading", "quant"]
         }
     ]
 }
