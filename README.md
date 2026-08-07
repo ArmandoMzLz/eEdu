@@ -1,10 +1,10 @@
 # eEdu
 
-![Main Page](main_page.png)
+![Main Page](main_page_1.png)
 
 ---
 
-eEdu is a personal library with over 90 books that I've been reading, I'm yet to read or I've read throught my carrer.
+eEdu is a personal library with over 100 books that I've been reading, I'm yet to read or I've read throught my carrer.
 
 The main topics of the books are:
 
