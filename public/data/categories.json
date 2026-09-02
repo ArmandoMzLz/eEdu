@@ -19,6 +19,10 @@
         {
             "name": "finance",
             "subcategories": ["trading", "quant"]
+        },
+        {
+            "name": "industrial engineering",
+            "subcategories": ["automation", "productive environments", "ict", "petri nets"]
         }
     ]
 }

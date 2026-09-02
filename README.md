@@ -1,6 +1,6 @@
 # eEdu
 
-![Main Page](main_page_1.png)
+![Main Page](main_menu.png)
 
 ---
 
@@ -13,6 +13,7 @@ The main topics of the books are:
 - Hardware related (circuits, embbeded systems, digital systems, etc.)
 - Physics
 - Finance
+- Industrial engineering
 
 You can visit the site [here](https://eedu.onrender.com).
 

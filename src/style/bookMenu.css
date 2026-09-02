@@ -1,7 +1,7 @@
 @import './App.css';
 
 .dropdown-container {
-    width: 15%;
+    width: 30%;
     padding: 10px;
     border-radius: 10px;
     transition: transform 0.3s ease-in-out;
@@ -37,6 +37,6 @@
 
 @media (max-width: 1100px) {
     .dropdown-container {
-        width: 80%;
+        width: 100%;
     }
 }

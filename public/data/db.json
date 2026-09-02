@@ -921,6 +921,141 @@
             "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "trading"],
             "urlBook": "/books/TradingSystemsAndMethods_PerryJKaufman.pdf",
             "urlCover": "/img/TradingSystemsAndMethods_PerryJKaufman.jpg"
+        },
+        {
+            "id": 103,
+            "title": "Ingeniería Industrial de Niebel",
+            "subtitle": "Métodos, Estándares y Diseño de Trabajo",
+            "author": "Andris Freivalds, Benjamin W. Niebel",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "tic", "ict"],
+            "urlBook": "/books/IngenieriaIndustrial_Varios.pdf",
+            "urlCover": "/img/IngenieriaIndustrial_Varios.jpg"
+        },
+        {
+            "id": 104,
+            "title": "Scheduling",
+            "subtitle": "Theory, Algorithms, and Systems",
+            "author": "Michael L. Pinedo",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "automation", "automatización"],
+            "urlBook": "/books/Scheduling_MichaelLPinedo.pdf",
+            "urlCover": "/img/Scheduling_MichaelLPinedo.jpg"
+        },
+        {
+            "id": 105,
+            "title": "Modeling and Control of Discrete-Event Dynamic Systems",
+            "subtitle": "with Petri Nets and Other Tool",
+            "author": "B. Hrúz, M. C. Zhou",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "petri nets", "redes de petri"],
+            "urlBook": "/books/ModelingAndControlOfDiscreteEventDynamicSystems_Varios.pdf",
+            "urlCover": "/img/ModelingAndControlOfDiscreteEventDynamicSystems_Varios.jpg"
+        },
+        {
+            "id": 106,
+            "title": "Petri Nets for Modeling of Large Discrete Systems",
+            "subtitle": "",
+            "author": "Reggie Davidrajuh",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "petri nets", "redes de petri"],
+            "urlBook": "/books/PetriNetsForModelingOfLargeDiscreteSystems_ReggieDavidrajuh.pdf",
+            "urlCover": "/img/PetriNetsForModelingOfLargeDiscreteSystems_ReggieDavidrajuh.jpg"
+        },
+        {
+            "id": 107,
+            "title": "Petri Net Theory and the Modeling of Systems",
+            "subtitle": "",
+            "author": "James L. Peterson",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "petri nets", "redes de petri"],
+            "urlBook": "/books/PetriNetTheoryAndTheModelingSystems_JamesLylePeterson.pdf",
+            "urlCover": "/img/PetriNetTheoryAndTheModelingSystems_JamesLylePeterson.jpg"
+        },
+        {
+            "id": 108,
+            "title": "Sistemas de Información Gerencial",
+            "subtitle": "",
+            "author": "Kenneth C. Laudon, Jane P. Laudon",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "tic", "ict"],
+            "urlBook": "/books/SistemasDeInformacionGerencial_Varios.pdf",
+            "urlCover": "/img/SistemasDeInformacionGerencial_Varios.jpg"
+        },
+        {
+            "id": 109,
+            "title": "Ingeniería del Software",
+            "subtitle": "Un Enfoque Práctico",
+            "author": "Roger S. Pressman",
+            "categories": ["software", "system", "sistema", "software engineering", "tic", "ict"],
+            "urlBook": "/books/IngenieriaDelSoftware_RogerS.Pressman.pdf",
+            "urlCover": "/img/IngenieriaDelSoftware_RogerS.Pressman.jpg"
+        },
+        {
+            "id": 110,
+            "title": "Estudios de Tiempos y Movimientos",
+            "subtitle": "para la Manufactura Ágil",
+            "author": "Fred E. Meyers",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "tic", "ict"],
+            "urlBook": "/books/EstudioDeTiemposYMovimientos_FredEMeyers.pdf",
+            "urlCover": "/img/EstudioDeTiemposYMovimientos_FredEMeyers.jpg"
+        },
+        {
+            "id": 111,
+            "title": "Product Lifecycle Management (Volume 1)",
+            "subtitle": "21st Century Paradigm for Product Realisation",
+            "author": "John Stark",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "automation", "automatización"],
+            "urlBook": "/books/ProductLifecycleManagementVolume1_JohnStark.pdf",
+            "urlCover": "/img/ProductLifecycleManagementVolume1_JohnStark.jpg"
+        },
+        {
+            "id": 112,
+            "title": "Cloud Computing",
+            "subtitle": "Concepts, Technology, Security & Architecture",
+            "author": "Thomas Erl, Eric Barceló Monroy",
+            "categories": ["software", "system", "sistema", "software engineering", "cloud computing", "computacion en la nube"],
+            "urlBook": "/books/CloudComputing_ThomasErlAndEricMonroy.pdf",
+            "urlCover": "/img/CloudComputing_ThomasErlAndEricMonroy.jpg"
+        },
+        {
+            "id": 113,
+            "title": "Industry 4.0",
+            "subtitle": "The Industrial Internet of Things",
+            "author": "Alasdair Gilchrist",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "iot", "internet of things", "internet de las cosas"],
+            "urlBook": "/books/Industry40_AlasdairGilchrist.pdf",
+            "urlCover": "/img/Industry40_AlasdairGilchrist.jpg"
+        },
+        {
+            "id": 114,
+            "title": "Automation, Production Systems, and Computer-Integrated Manufacturing",
+            "subtitle": "",
+            "author": "Mikell P. Groover, Joyjeet Ghose",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "productive environments", "ambientes productivos", "automation", "automatización"],
+            "urlBook": "/books/AutomationProductionSystemsAndComputerIntegratedManufacturing_Varios.pdf",
+            "urlCover": "/img/AutomationProductionSystemsAndComputerIntegratedManufacturing_Varios.jpg"
+        },
+        {
+            "id": 115,
+            "title": "Administración de Operaciones",
+            "subtitle": "Producción y Cadena de Suministros",
+            "author": "Richard B. Chase, F. Robert Jacobs, Nicholas J. Aquilano",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "productive environments", "ambientes productivos"],
+            "urlBook": "/books/AdministracionDeOperaciones_Varios.pdf",
+            "urlCover": "/img/AdministracionDeOperaciones_Varios.jpg"
+        },
+        {
+            "id": 116,
+            "title": "Planeación y Control de la Producción",
+            "subtitle": "",
+            "author": "Daniel Sipper, Robert L. Bulfin Jr.",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "productive environments", "ambientes productivos"],
+            "urlBook": "/books/PlaneacionYControlDeLaProduccion_Varios.pdf",
+            "urlCover": "/img/PlaneacionYControlDeLaProduccion_Varios.jpg"
+        },
+        {
+            "id": 117,
+            "title": "Principios de Administración de Operaciones",
+            "subtitle": "",
+            "author": "Jay Heizer, Barry Render, Chuck Munson",
+            "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "productive environments", "ambientes productivos"],
+            "urlBook": "/books/PrincipiosDeAdministraciónDeOperaciones_Varios.pdf",
+            "urlCover": "/img/PrincipiosDeAdministraciónDeOperaciones_Varios.jpg"
         }
     ]
 }
