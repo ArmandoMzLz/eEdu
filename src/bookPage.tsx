@@ -34,7 +34,7 @@ export default function BookPage() {
             <div className="book-data">
                 <h2>{book.title}</h2>
                 <h3>{book.subtitle}</h3>
-                <p>Autor: {book.author}</p>
+                <p>Author(s): {book.author}</p>
             </div>
             <PdfViewer fileUrl={book.urlBook} />
         </main>

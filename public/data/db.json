@@ -1056,6 +1056,105 @@
             "categories": ["engineering", "ingenieria", "industrial", "industrial engineering", "ingenieria industrial", "productive environments", "ambientes productivos"],
             "urlBook": "/books/PrincipiosDeAdministraciónDeOperaciones_Varios.pdf",
             "urlCover": "/img/PrincipiosDeAdministraciónDeOperaciones_Varios.jpg"
+        },
+        {
+            "id": 118,
+            "title": "Investigación de Operaciones",
+            "subtitle": "",
+            "author": "Hamdy A. Taha",
+            "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/InvestigacionDeOperaciones_HamdyATaha.pdf",
+            "urlCover": "/img/InvestigacionDeOperaciones_HamdyATaha.jpg"
+        },
+        {
+            "id": 119,
+            "title": "Introducción a la Investigación de Operaciones",
+            "subtitle": "",
+            "author": "Frederick S. Hillier, Gerald J. Lieberman",
+            "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/InvestigacionDeOperaciones_Frederick.pdf",
+            "urlCover": "/img/InvestigacionDeOperaciones_Frederick.jpg"
+        },
+        {
+            "id": 120,
+            "title": "Investigación de Operaciones",
+            "subtitle": "Aplicaciones y Algoritmos",
+            "author": "Wayne L. Winston",
+            "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/InvestigacionDeOperaciones_WayneLWinston.pdf",
+            "urlCover": "/img/InvestigacionDeOperaciones_WayneLWinston.jpg"
+        },
+        {
+            "id": 121,
+            "title": "Métodos Cuantitativos para los Negocios",
+            "subtitle": "",
+            "author": "Barry Render, Ralph M. Stair Jr., Michael E. Hanna, Trevor S. Hale",
+            "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/MetodosCuantitativosParaLosNegocios_Varios.pdf",
+            "urlCover": "/img/MetodosCuantitativosParaLosNegocios_Varios.jpg"
+        },
+        {
+            "id": 122,
+            "title": "Linear Programming and Network Flows",
+            "subtitle": "",
+            "author": "Mokhtar S. Bazaraa, John J. Jarvis, Hanif D. Sherali",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/LinearProgrammingAndNetworkFlows_Varios.pdf",
+            "urlCover": "/img/LinearProgrammingAndNetworkFlows_Varios.jpg"
+        },
+        {
+            "id": 123,
+            "title": "Linear Programming",
+            "subtitle": "",
+            "author": "Vasek Chvátal",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/LinearProgramming_VasekChvatal.pdf",
+            "urlCover": "/img/LinearProgramming_VasekChvatal.jpg"
+        },
+        {
+            "id": 124,
+            "title": "Linear Programming and Extensions",
+            "subtitle": "",
+            "author": "George B. Dantzig",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/LinearProgrammingAndExtensions_GoergeBDantzig.pdf",
+            "urlCover": "/img/LinearProgrammingAndExtensions_GoergeBDantzig.jpg"
+        },
+        {
+            "id": 125,
+            "title": "Linear Programming",
+            "subtitle": "Foundations and Extensions",
+            "author": "Robert J. Vanderbi",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/LinearProgrammingFoundationsAndExtensions_RobertJVanderbei.pdf",
+            "urlCover": "/img/LinearProgrammingFoundationsAndExtensions_RobertJVanderbei.jpg"
+        },
+        {
+            "id": 126,
+            "title": "Linear Programming",
+            "subtitle": "Methods and Applications",
+            "author": "Saul I. Gass",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/LinearProgrammingMethodsAndApplications_SaulIGass.pdf",
+            "urlCover": "/img/LinearProgrammingMethodsAndApplications_SaulIGass.jpg"
+        },
+        {
+            "id": 127,
+            "title": "Elementary Linear Programming with Applications",
+            "subtitle": "",
+            "author": "Bernard Kolman, Robert E. Beck",
+            "categories": ["math", "mathematics", "matematicas", "linear programming", "programacion lineal"],
+            "urlBook": "/books/ElementaryLinearProgramming_Varios.pdf",
+            "urlCover": "/img/ElementaryLinearProgramming_Varios.jpg"
+        },
+        {
+            "id": 128,
+            "title": "Investigación de Operaciones",
+            "subtitle": "",
+            "author": "Juan Manuel Izar Landeta",
+            "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
+            "urlBook": "/books/InvestigacionDeOperaciones_JuanManuelIzarLandeta.pdf",
+            "urlCover": "/img/InvestigacionDeOperaciones_JuanManuelIzarLandeta.jpg"
         }
     ]
 }

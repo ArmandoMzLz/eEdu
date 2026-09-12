@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "mathematics",
-            "subcategories": ["algebra", "discrete math", "geometry", "trigonometry", "calculus", "linear algebra", "numerical methods", "probability and statistics", "analysis"]
+            "subcategories": ["algebra", "discrete math", "geometry", "trigonometry", "calculus", "probability and statistics", "linear algebra", "numerical methods", "linear programming", "analysis"]
         },
         {
             "name": "software",
@@ -22,7 +22,7 @@
         },
         {
             "name": "industrial engineering",
-            "subcategories": ["automation", "productive environments", "ict", "petri nets"]
+            "subcategories": ["automation", "productive environments", "ict", "petri nets", "operations research"]
         }
     ]
 }
