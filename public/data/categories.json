@@ -18,7 +18,7 @@
         },
         {
             "name": "finance",
-            "subcategories": ["trading", "quant"]
+            "subcategories": ["trading", "quantitative", "financial markets"]
         },
         {
             "name": "industrial engineering",

@@ -446,7 +446,7 @@
             "title": "Trades, Quotes and Prices",
             "subtitle": "Financial Markets Under the Microscope",
             "author": "Jean-Philippe Bouchad, Julius Bonart, Jonathan Donier, Martin Gould",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "quant"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "economics", "economia", "quantitative"],
             "urlBook": "/books/TradesQuotesAndPrices_Varios.pdf",
             "urlCover": "/img/TradesQuotesAndPrices_Varios.jpg"
         },
@@ -455,7 +455,7 @@
             "title": "Mathematical Theory of Bayesian Statistics",
             "subtitle": "",
             "author": "Sumio Watanabe",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "statistics", "estadistica", "quant"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "statistics", "estadistica", "quantitative", "cuantitativo"],
             "urlBook": "/books/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.pdf",
             "urlCover": "/img/MathematicalTheoryOfBayesianStatistics_SumioWatanabe.jpg"
         },
@@ -482,7 +482,7 @@
             "title": "Theory of Financial Risk and Derivative Pricing",
             "subtitle": "From Statistical Physics to Risk Management",
             "author": "Jean-Philippe Bouchad, Marc Potters",
-            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "quant"],
+            "categories": ["math", "mathematics", "matematicas", "finance", "finanzas", "quantitative", "cuantitativo"],
             "urlBook": "/books/TheoryOfFinancialRiskAndDerivativePricing_Varios.pdf",
             "urlCover": "/img/TheoryOfFinancialRiskAndDerivativePricing_Varios.jpg"
         },
@@ -900,7 +900,7 @@
             "title": "The Statistical Mechanics of Financial Markets",
             "subtitle": "",
             "author": "Johannes Voit",
-            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "quant"],
+            "categories": ["finance", "finanzas", "math", "matematicas", "mathematics", "quantitative", "cuantitativo"],
             "urlBook": "/books/TheStatisticalMechanicsOfFinancialMarkets_JohannesVoit.pdf",
             "urlCover": "/img/TheStatisticalMechanicsOfFinancialMarkets_JohannesVoit.jpg"
         },
@@ -1155,6 +1155,177 @@
             "categories": ["industrial engineering", "ingenieria industrial", "operations research", "investigacion de operaciones", "math", "mathematics", "matematicas"],
             "urlBook": "/books/InvestigacionDeOperaciones_JuanManuelIzarLandeta.pdf",
             "urlCover": "/img/InvestigacionDeOperaciones_JuanManuelIzarLandeta.jpg"
+        }, 
+        {
+            "id": 129,
+            "title": "Monte Carlo Methods In Financial Engineering",
+            "author": "Paul Glasserman",
+            "subtitle": "",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/CreditRiskPricingModels_BerndSchmid.pdf",
+            "urlCover": "/img/CreditRiskPricingModels_BerndSchmid.jpg"
+        },
+        {
+            "id": 130,
+            "title": "Credit Risk Pricing Models",
+            "subtitle": "Theory and Practice",
+            "author": "Bernd Schmid",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/CreditRiskPricingModels_BerndSchmid.pdf",
+            "urlCover": "/img/CreditRiskPricingModels_BerndSchmid.jpg"
+        },
+        {
+            "id": 131,
+            "title": "Modeling, Pricing, and Hedging Counterparty Credit Exposure",
+            "subtitle": "A Technical Guide",
+            "author": "Giovanni Cesari, John Aquilina, Niels Charpillon, Zlatko Filipovic, Gordon Lee, Ion Manda",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/ModelingPricingAndHedgingCounterpartyCreditExposure_Varios.pdf",
+            "urlCover": "/img/ModelingPricingAndHedgingCounterpartyCreditExposure_Varios.jpg"
+        },
+        {
+            "id": 132,
+            "title": "Term-Structure Models",
+            "subtitle": "A Graduate Course",
+            "author": "Damir Filipovic",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/TermStructureModels_DamirFilipovic.pdf",
+            "urlCover": "/img/TermStructureModels_DamirFilipovic.jpg"
+        },
+        {
+            "id": 133,
+            "title": "Interest Rate Models - Theory and Practice",
+            "subtitle": "With Smile, Inflation and Credit",
+            "author": "Damiano Brigo, Fabio Mercurio",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/InterestRateModelsTheoryAndPractice_Varios.pdf",
+            "urlCover": "/img/InterestRateModelsTheoryAndPractice_Varios.jpg"
+        },
+        {
+            "id": 134,
+            "title": "Stochatsic Differential Equations",
+            "subtitle": "An Introduction with Applications",
+            "author": "Bernt Oksendal",
+            "categories": ["mathematics", "matematicas", "calculus", "calculo", "stochastic", "estocastico"],
+            "urlBook": "/books/StochasticDifferentialEquations_BerntOskendal.pdf",
+            "urlCover": "/img/StochasticDifferentialEquations_BerntOskendal.jpg"
+        },
+        {
+            "id": 135,
+            "title": "Brownian Motion and Stochastic Calculus",
+            "subtitle": "",
+            "author": "Ioannis Karatzas, Steven E. Shreve",
+            "categories": ["mathematics", "matematicas", "calculus", "calculo", "stochastic", "estocastico"],
+            "urlBook": "/books/BrownianMotionAndStochasticCalculus_Varios.pdf",
+            "urlCover": "/img/BrownianMotionAndStochasticCalculus_Varios.jpg"
+        },
+        {
+            "id": 136,
+            "title": "More Mathematical Finance",
+            "subtitle": "",
+            "author": "Mark S. Joshi",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas"],
+            "urlBook": "/books/MoreMathematicalFinance_JoshiMarkSuresh.pdf",
+            "urlCover": "/img/MoreMathematicalFinance_JoshiMarkSuresh.jpg"
+        },
+        {
+            "id": 137,
+            "title": "Financial Calculus",
+            "subtitle": "An introduction to derivative pricing",
+            "author": "Martin Baxter, Andrew Rennie",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas", "calculus", "calculo"],
+            "urlBook": "/books/FinancialCalculus_Varios.pdf",
+            "urlCover": "/img/FinancialCalculus_Varios.jpg"
+        },
+        {
+            "id": 138,
+            "title": "The Concepts And Practice Of Mathematical Finance",
+            "subtitle": "",
+            "author": "Mark S. Joshi",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas"],
+            "urlBook": "/books/TheConceptAndPracticeOfMathematicalFinance_JoshiMarkSuresh.pdf",
+            "urlCover": "/img/TheConceptAndPracticeOfMathematicalFinance_JoshiMarkSuresh.jpg"
+        },
+        {
+            "id": 139,
+            "title": "Introduction to Probability",
+            "subtitle": "",
+            "author": "Joseph K. Blitzstein, Jessica Hwang",
+            "categories": ["mathematics", "matematicas", "probability and statistics", "probabilidad y estadisticas"],
+            "urlBook": "/books/IntroductionToProbability_Varios.pdf",
+            "urlCover": "/img/IntroductionToProbability_Varios.jpg"
+        },
+        {
+            "id": 140,
+            "title": "Stochastic Calculus for Finance I",
+            "subtitle": "The Binomial Asset Pricing Model",
+            "author": "Steven E. Shreve",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas", "calculus", "calculo", "stochastic", "estocastico"],
+            "urlBook": "/books/StochasticCalculusForFinanceI_StevenEShreve.pdf",
+            "urlCover": "/img/StochasticCalculusForFinanceI_StevenEShreve.jpg"
+        },
+        {
+            "id": 141,
+            "title": "Stochastic Calculus for Finance II",
+            "subtitle": "Continuous-Time Models",
+            "author": "Steven E. Shreve",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas", "calculus", "calculo", "stochastic", "estocastico"],
+            "urlBook": "/books/StochasticCalculusForFinanceII_StevenEShreve.pdf",
+            "urlCover": "/img/StochasticCalculusForFinanceII_StevenEShreve.jpg"
+        },
+        {
+            "id": 142,
+            "title": "Paul Wilmott Introduces Quantitative Finance",
+            "subtitle": "",
+            "author": "Paul Wilmott",
+            "categories": ["finance", "finanzas", "quantitative", "cuantitativo"],
+            "urlBook": "/books/PaulWilmottIntroducesQuantitativeFinance_PaulWilmott.pdf",
+            "urlCover": "/img/PaulWilmottIntroducesQuantitativeFinance_PaulWilmott.jpg"
+        },
+        {
+            "id": 143,
+            "title": "A Primer for the Mathematics of Financial Engineering",
+            "subtitle": "",
+            "author": "Dan Stefanica",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros", "mathematics", "matematicas"],
+            "urlBook": "/books/APrimerForTheMathematicsOfFinancialEngineering_DanStefanica.pdf",
+            "urlCover": "/img/APrimerForTheMathematicsOfFinancialEngineering_DanStefanica.jpg"
+        },
+        {
+            "id": 144,
+            "title": "Active Porfolio Management",
+            "subtitle": "A Quantitative Approach for Producing Superior Returns and Controlling Risk",
+            "author": "Richard C. Grinold, Ronald D. Kahn",
+            "categories": ["finance", "finanzas", "quantitative", "cuantitativo"],
+            "urlBook": "/books/ActivePortfolioManagement_Varios.pdf",
+            "urlCover": "/img/ActivePortfolioManagement_Varios.jpg"
+        },
+        {
+            "id": 145,
+            "title": "Advances in Financial Machine Learning",
+            "subtitle": "",
+            "author": "Marcos M. López de Prado",
+            "categories": ["finance", "finanzas", "financial markets", "mercados financieros"],
+            "urlBook": "/books/AdvancesInFinancialMachineLearning_MarcosLopezDePrado.pdf",
+            "urlCover": "/img/AdvancesInFinancialMachineLearning_MarcosLopezDePrado.jpg"
+        },
+        {
+            "id": 146,
+            "title": "Machine Learning for Asset Managers",
+            "subtitle": "",
+            "author": "Marcos M. López de Prado",
+            "categories": ["finance", "finanzas", "quantitative", "cuantitativo"],
+            "urlBook": "/books/MachineLearningForAssetManagers_MarcosLopezDePrado.pdf",
+            "urlCover": "/img/MachineLearningForAssetManagers_MarcosLopezDePrado.jpg"
+        },
+        {
+            "id": 147,
+            "title": "Heard On The Street",
+            "subtitle": "Quantitative Questions from Wall Street Job Interviews",
+            "author": "Timothy Falcon Crack",
+            "categories": ["finance", "finanzas", "quantitative", "cuantitativo"],
+            "urlBook": "/books/HeardOnTheStreet_TimothyFalconCrack.pdf",
+            "urlCover": "/img/HeardOnTheStreet_TimothyFalconCrack.jpg"
         }
     ]
 }
